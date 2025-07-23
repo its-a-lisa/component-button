@@ -1,0 +1,2479 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400&family=Source+Sans+Pro%3Aital%2Cwght%400%2C400&family=Inconsolata%3Aital%2Cwght%400%2C400&display=swap");
+
+.plasmic_tokens {
+  --token-4hF_LwIOL-pD: var(--token-Oh94ycHymbHF);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-3: var(
+    --token-4hF_LwIOL-pD
+  );
+  --token-Q2X4JhBy_hV8: var(--token-9mJRkFyMCQmf);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-2: var(
+    --token-Q2X4JhBy_hV8
+  );
+  --token-nzhJo5rxzpC3: var(--token-SazLTkxG93M_);
+  --plasmic-token-17-sds-system-semantic-font-size-base-md: var(
+    --token-nzhJo5rxzpC3
+  );
+  --token-7Q6Tq4DaBVj1: var(--token-EIjKudRy0txv);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-group-vertical: var(
+    --token-7Q6Tq4DaBVj1
+  );
+  --token-mOMUgWDDGuJX: var(--token-aexU-vAUAEga);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-group-horizontal: var(
+    --token-mOMUgWDDGuJX
+  );
+  --token-3YfeYBOUJRlS: var(--token-04WOSVuKrSgP);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-small: var(
+    --token-3YfeYBOUJRlS
+  );
+  --token-6aQE6n7Ryiwe: var(--token-lNZr5WC66KnJ);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-tiny: var(
+    --token-6aQE6n7Ryiwe
+  );
+  --token-lBWX8Kk_SXjv: var(--token-1QD-W-bEYh-n);
+  --plasmic-token-17-sds-system-semantic-text-color-link-base: var(
+    --token-lBWX8Kk_SXjv
+  );
+  --token-uqJ3-jooecSZ: var(--token-lVgEsMVSjRVD);
+  --plasmic-token-17-sds-system-semantic-text-color-link-hover: var(
+    --token-uqJ3-jooecSZ
+  );
+  --token-_FuPH4CUSL8G: var(--token-eCE4UuQ4fKMp);
+  --plasmic-token-17-sds-system-semantic-text-color-link-visited: var(
+    --token-_FuPH4CUSL8G
+  );
+  --token-gmTkI8CV6ysl: var(--token-cXUdpluV2ocG);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-control-to-control-base: var(
+    --token-gmTkI8CV6ysl
+  );
+  --token-po-TqD1DFQiH: var(--token-9mJRkFyMCQmf);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-1: var(
+    --token-po-TqD1DFQiH
+  );
+  --token-3UVv2Xd301jz: var(--token-nzhJo5rxzpC3);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-4: var(
+    --token-3UVv2Xd301jz
+  );
+  --token-ltq-z202MuyM: var(--token-nzhJo5rxzpC3);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-5: var(
+    --token-ltq-z202MuyM
+  );
+  --token-BE-7FyfyhPHp: var(--token-nzhJo5rxzpC3);
+  --plasmic-token-17-sds-system-semantic-font-size-heading-h-6: var(
+    --token-BE-7FyfyhPHp
+  );
+  --token-zO9WZNlbKj_W: var(--token-AFCJ0laTLrEd);
+  --plasmic-token-17-sds-system-base-text-color-base-400: var(
+    --token-zO9WZNlbKj_W
+  );
+  --token-kcN9hp4D8txr: var(--token-axyCJIfdO6Zm);
+  --plasmic-token-17-sds-system-base-color-status-info-300: var(
+    --token-kcN9hp4D8txr
+  );
+  --token-YS29uLDJb9nz: var(--token-LcMh4lIqXsiI);
+  --plasmic-token-17-sds-system-base-color-status-negative-400: var(
+    --token-YS29uLDJb9nz
+  );
+  --token-UtVKUIUtO-dx: var(--token-qVkE6NIWzrdF);
+  --plasmic-token-17-sds-system-base-color-status-notice-400: var(
+    --token-UtVKUIUtO-dx
+  );
+  --token-5T4g51PSNhn4: var(--token-TUdiFiY3o5Nb);
+  --plasmic-token-17-sds-system-base-color-status-positive-400: var(
+    --token-5T4g51PSNhn4
+  );
+  --token-CnK0AGamHDaj: var(--token-guz-Vfqxsdqe);
+  --plasmic-token-17-sds-system-base-color-status-negative-300: var(
+    --token-CnK0AGamHDaj
+  );
+  --token-hsFY5mxgTsnU: var(--token-gtT-HGoP_yYz);
+  --plasmic-token-17-sds-system-base-color-status-notice-300: var(
+    --token-hsFY5mxgTsnU
+  );
+  --token-S14E-MXmKjru: var(--token-Y0K1k-y_PS2a);
+  --plasmic-token-17-sds-system-base-color-status-info-400: var(
+    --token-S14E-MXmKjru
+  );
+  --token--aMPuFaV17Lp: var(--token-7-1rrDF4FEli);
+  --plasmic-token-17-sds-system-base-color-status-negative-500: var(
+    --token--aMPuFaV17Lp
+  );
+  --token-_QUH6QvUpKAN: var(--token-5ZS3VskDJfKc);
+  --plasmic-token-17-sds-system-base-color-status-notice-500: var(
+    --token-_QUH6QvUpKAN
+  );
+  --token-9Ny7qUmqf_EG: var(--token-VwhdqT_D2dI1);
+  --plasmic-token-17-sds-system-base-color-status-positive-500: var(
+    --token-9Ny7qUmqf_EG
+  );
+  --token-Zc9kz-c9SWOD: var(--token-2ZBJ8x7ms-ku);
+  --plasmic-token-17-sds-system-semantic-text-color-base-regular: var(
+    --token-Zc9kz-c9SWOD
+  );
+  --token-2ZBJ8x7ms-ku: var(--token-zngtfJDxDBTs);
+  --plasmic-token-17-sds-system-base-text-color-base-200: var(
+    --token-2ZBJ8x7ms-ku
+  );
+  --token-1mGmTW3YodO9: var(--token-1ZJ-uw-902rP);
+  --plasmic-token-17-sds-system-base-text-color-base-100: var(
+    --token-1mGmTW3YodO9
+  );
+  --token-OXtA5VtQ6GM2: var(--token-n5SUZqKTQmYp);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-sharp: var(
+    --token-OXtA5VtQ6GM2
+  );
+  --token-d-75LX9qLhFO: var(--token-mla-rVWzNed5);
+  --plasmic-token-17-sds-system-semantic-font-family-body: var(
+    --token-d-75LX9qLhFO
+  );
+  --token-LMvLjs2AY30y: var(--token-kXPbwllhZsem);
+  --plasmic-token-17-sds-system-semantic-font-size-base-sm: var(
+    --token-LMvLjs2AY30y
+  );
+  --token-Oh94ycHymbHF: var(--token-S1Uot29W7yaP);
+  --plasmic-token-17-sds-system-semantic-font-size-base-lg: var(
+    --token-Oh94ycHymbHF
+  );
+  --token-1fU53D5PEO5_: var(--token-7tpARlqIxFQr);
+  --plasmic-token-17-sds-system-base-font-line-height-100: var(
+    --token-1fU53D5PEO5_
+  );
+  --token-UCiCIP9lz9Hd: var(--token-LMvLjs2AY30y);
+  --plasmic-token-17-sds-system-semantic-font-size-body-base: var(
+    --token-UCiCIP9lz9Hd
+  );
+  --token-SLM-I1tsf6in: var(--token-EIjKudRy0txv);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-text-to-element-base: var(
+    --token-SLM-I1tsf6in
+  );
+  --token-f6WRc2JGkO5b: var(--token-9OiOhRjJBR8T);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-group-to-group-horizontal: var(
+    --token-f6WRc2JGkO5b
+  );
+  --token-RbbabfyZRElC: var(--token-kMkRY1vRBEsZ);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-group-to-group-vertical: var(
+    --token-RbbabfyZRElC
+  );
+  --token-DQsPTx1IF7hr: var(--token-aexU-vAUAEga);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-action-to-action-base: var(
+    --token-DQsPTx1IF7hr
+  );
+  --token-IqkubN6B8bwh: var(--token-cXUdpluV2ocG);
+  --plasmic-token-17-sds-system-semantic-spacer-gap-action-to-action-plain: var(
+    --token-IqkubN6B8bwh
+  );
+  --token-0FOyzJqwibTr: var(--token-CBJ9p8ySueGW);
+  --plasmic-token-17-sds-system-base-border-width-100: var(
+    --token-0FOyzJqwibTr
+  );
+  --token-Blkoc77RwXpU: var(--token-4DZfuHudET-h);
+  --plasmic-token-17-sds-system-base-border-width-200: var(
+    --token-Blkoc77RwXpU
+  );
+  --token-KlEGYCzvTa9f: var(--token-376lLb_hUdxO);
+  --plasmic-token-17-sds-system-base-border-width-300: var(
+    --token-KlEGYCzvTa9f
+  );
+  --token-n5SUZqKTQmYp: var(--token-RE-5b0rNKvzf);
+  --plasmic-token-17-sds-system-base-border-radius-000: var(
+    --token-n5SUZqKTQmYp
+  );
+  --token-lNZr5WC66KnJ: var(--token-X-Rd1vV1dY94);
+  --plasmic-token-17-sds-system-base-border-radius-100: var(
+    --token-lNZr5WC66KnJ
+  );
+  --token-04WOSVuKrSgP: var(--token-a4HC0coUFHIR);
+  --plasmic-token-17-sds-system-base-border-radius-200: var(
+    --token-04WOSVuKrSgP
+  );
+  --token-Litr8JyZAwjE: var(--token-9588XUwd3tEo);
+  --plasmic-token-17-sds-system-base-border-radius-300: var(
+    --token-Litr8JyZAwjE
+  );
+  --token-K0-XIdZp-KoX: var(--token-G69ArUxHbDyN);
+  --plasmic-token-17-sds-system-base-border-radius-400: var(
+    --token-K0-XIdZp-KoX
+  );
+  --token-9uj0gMSkfdc6: var(--token-XXFmsPTjBPIv);
+  --plasmic-token-17-sds-system-base-border-radius-500: var(
+    --token-9uj0gMSkfdc6
+  );
+  --token-zjrEWhKH8t6p: var(--token-tnFIBIZo4J0u);
+  --plasmic-token-17-sds-system-base-spacer-300: var(--token-zjrEWhKH8t6p);
+  --token-DSHWNSIqsNUt: var(--token-EIjKudRy0txv);
+  --plasmic-token-17-sds-system-base-spacer-400: var(--token-DSHWNSIqsNUt);
+  --token-GoTC-pGRHlhO: var(--token-aexU-vAUAEga);
+  --plasmic-token-17-sds-system-base-spacer-700: var(--token-GoTC-pGRHlhO);
+  --token-Qwd1qnggXKb5: var(--token-kMkRY1vRBEsZ);
+  --plasmic-token-17-sds-system-base-spacer-800: var(--token-Qwd1qnggXKb5);
+  --token-zQX0s_tgOjkj: var(--token-2F84lHAgOKvb);
+  --plasmic-token-17-sds-system-base-spacer-900: var(--token-zQX0s_tgOjkj);
+  --token-pGNo7Dk8yRpZ: var(--token-9OiOhRjJBR8T);
+  --plasmic-token-17-sds-system-base-spacer-1000: var(--token-pGNo7Dk8yRpZ);
+  --token-fkJ9tcRaT7oL: var(--token-YRB6XRaWNN_t);
+  --plasmic-token-17-sds-system-base-spacer-1100: var(--token-fkJ9tcRaT7oL);
+  --token-v7dHgD9oSzve: var(--token-3-tJKfg6zfvE);
+  --plasmic-token-17-sds-system-base-spacer-1200: var(--token-v7dHgD9oSzve);
+  --token-coulfmoNPufH: var(--token-GoTC-pGRHlhO);
+  --plasmic-token-17-sds-system-semantic-spacer-base-md: var(
+    --token-coulfmoNPufH
+  );
+  --token-mZv7Y9lIEaYC: var(--token-qV0IJdU4J327);
+  --plasmic-token-17-sds-system-semantic-spacer-base-sm: var(
+    --token-mZv7Y9lIEaYC
+  );
+  --token-cXUdpluV2ocG: var(--token-SyUmsoKw0a25);
+  --plasmic-token-17-sds-system-semantic-spacer-base-xs: var(
+    --token-cXUdpluV2ocG
+  );
+  --token-K72AYDYsYBi8: var(--token-Qwd1qnggXKb5);
+  --plasmic-token-17-sds-system-semantic-spacer-base-lg: var(
+    --token-K72AYDYsYBi8
+  );
+  --token-mOS7eJLEHsAU: var(--token-2F84lHAgOKvb);
+  --plasmic-token-17-sds-system-semantic-spacer-base-xl: var(
+    --token-mOS7eJLEHsAU
+  );
+  --token-oEonbNytLOMX: var(--token-pGNo7Dk8yRpZ);
+  --plasmic-token-17-sds-system-semantic-spacer-base-2-xl: var(
+    --token-oEonbNytLOMX
+  );
+  --token-cOMR8HuSdxPT: var(--token-fkJ9tcRaT7oL);
+  --plasmic-token-17-sds-system-semantic-spacer-base-3-xl: var(
+    --token-cOMR8HuSdxPT
+  );
+  --token-ZgnCpS9MBGoo: var(--token-v7dHgD9oSzve);
+  --plasmic-token-17-sds-system-semantic-spacer-base-4-xl: var(
+    --token-ZgnCpS9MBGoo
+  );
+  --token-KafGNKojq3q-: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-spacer-control-vertical-base: var(
+    --token-KafGNKojq3q-
+  );
+  --token-P78Ci0yqopEm: var(--token-cXUdpluV2ocG);
+  --plasmic-token-17-sds-system-semantic-spacer-control-vertical-compact: var(
+    --token-P78Ci0yqopEm
+  );
+  --token-JWqgEmF94uI-: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-spacer-control-vertical-plain: var(
+    --token-JWqgEmF94uI-
+  );
+  --token-pZEzPBDfQMWh: var(--token-coulfmoNPufH);
+  --plasmic-token-17-sds-system-semantic-spacer-control-horizontal-base: var(
+    --token-pZEzPBDfQMWh
+  );
+  --token-KwtR_dkw-NCe: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-spacer-control-horizontal-plain: var(
+    --token-KwtR_dkw-NCe
+  );
+  --token-smh03ui9R2IQ: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-spacer-control-horizontal-compact: var(
+    --token-smh03ui9R2IQ
+  );
+  --token-hPQzLaW5Owde: var(--token-K72AYDYsYBi8);
+  --plasmic-token-17-sds-system-semantic-spacer-control-horizontal-spacious: var(
+    --token-hPQzLaW5Owde
+  );
+  --token-KwODFecnM8xq: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-spacer-action-horizontal-plain: var(
+    --token-KwODFecnM8xq
+  );
+  --token-HcufQgzbq8Xa: var(--token-K72AYDYsYBi8);
+  --plasmic-token-17-sds-system-semantic-spacer-action-horizontal-base: var(
+    --token-HcufQgzbq8Xa
+  );
+  --token-d5kA4Lp3Zd76: var(--token-coulfmoNPufH);
+  --plasmic-token-17-sds-system-semantic-spacer-action-horizontal-compact: var(
+    --token-d5kA4Lp3Zd76
+  );
+  --token-Ss1ZK34JJ9qV: var(--token-mOS7eJLEHsAU);
+  --plasmic-token-17-sds-system-semantic-spacer-action-horizontal-spacious: var(
+    --token-Ss1ZK34JJ9qV
+  );
+  --token-bXZ9O2OBjqB3: var(--token-cXUdpluV2ocG);
+  --plasmic-token-17-sds-system-semantic-spacer-action-vertical-compact: var(
+    --token-bXZ9O2OBjqB3
+  );
+  --token-EBnrvJU97eZ5: var(--token-coulfmoNPufH);
+  --plasmic-token-17-sds-system-semantic-spacer-action-vertical-spacous: var(
+    --token-EBnrvJU97eZ5
+  );
+  --token-tSjJg6imW3q_: var(--token-KaPc7LWHkyvB);
+  --plasmic-token-17-sds-system-base-icon-size-100: var(--token-tSjJg6imW3q_);
+  --token-IL-mIWItndef: var(--token-3Yh1BtycXMZY);
+  --plasmic-token-17-sds-system-base-icon-size-200: var(--token-IL-mIWItndef);
+  --token-WWDy_rBGsixn: var(--token-aexU-vAUAEga);
+  --plasmic-token-17-sds-system-base-icon-size-250: var(--token-WWDy_rBGsixn);
+  --token-mFLaaf18YioM: var(--token-DKcNDw_2Q4UN);
+  --plasmic-token-17-sds-system-base-icon-size-300: var(--token-mFLaaf18YioM);
+  --token-LLVUno4OXamx: var(--token-uJUZCDgr1tZh);
+  --plasmic-token-17-sds-system-base-icon-size-400: var(--token-LLVUno4OXamx);
+  --token-c6sr205gNFLz: var(--token-t4zf_mn6HDDa);
+  --plasmic-token-17-sds-system-base-icon-size-500: var(--token-c6sr205gNFLz);
+  --token-MdvLqOIbd8fP: var(--token-tSjJg6imW3q_);
+  --plasmic-token-17-sds-system-semantic-icon-size-sm: var(
+    --token-MdvLqOIbd8fP
+  );
+  --token-cbK4-5lpN5AL: var(--token-IL-mIWItndef);
+  --plasmic-token-17-sds-system-semantic-icon-size-md: var(
+    --token-cbK4-5lpN5AL
+  );
+  --token-NYU5UugsQWAc: var(--token-WWDy_rBGsixn);
+  --plasmic-token-17-sds-system-semantic-icon-size-lg: var(
+    --token-NYU5UugsQWAc
+  );
+  --token-y_UZf5QfML7E: var(--token-mFLaaf18YioM);
+  --plasmic-token-17-sds-system-semantic-icon-size-xl: var(
+    --token-y_UZf5QfML7E
+  );
+  --token-ME63Vz4St9Og: var(--token-LLVUno4OXamx);
+  --plasmic-token-17-sds-system-semantic-icon-size-2-xl: var(
+    --token-ME63Vz4St9Og
+  );
+  --token-G6vEyKUdT6MH: var(--token-c6sr205gNFLz);
+  --plasmic-token-17-sds-system-semantic-icon-size-3-xl: var(
+    --token-G6vEyKUdT6MH
+  );
+  --token-3S9CCIWkY087: var(--token-E-XpXqdEPBpB);
+  --plasmic-token-17-sds-system-base-font-size-100: var(--token-3S9CCIWkY087);
+  --token-kXPbwllhZsem: var(--token-lSejyBNu19BF);
+  --plasmic-token-17-sds-system-base-font-size-200: var(--token-kXPbwllhZsem);
+  --token-SazLTkxG93M_: var(--token-QSSa2VFfR_qN);
+  --plasmic-token-17-sds-system-base-font-size-300: var(--token-SazLTkxG93M_);
+  --token-S1Uot29W7yaP: var(--token-O9vtaTWsBgdj);
+  --plasmic-token-17-sds-system-base-font-size-400: var(--token-S1Uot29W7yaP);
+  --token-ypNC8D7WqcRY: var(--token-6p3upUQ3clMn);
+  --plasmic-token-17-sds-system-base-font-size-500: var(--token-ypNC8D7WqcRY);
+  --token-84Pt0QOrWnbu: var(--token-mpivALeJxat5);
+  --plasmic-token-17-sds-system-base-font-size-600: var(--token-84Pt0QOrWnbu);
+  --token-CpBTFOp-sev_: var(--token-CfYR05E2Y9yi);
+  --plasmic-token-17-sds-system-base-font-size-700: var(--token-CpBTFOp-sev_);
+  --token-3UoaLFH-04Mi: var(--token-BuZv_QBeb2vb);
+  --plasmic-token-17-sds-system-base-font-size-800: var(--token-3UoaLFH-04Mi);
+  --token-LMeY1CyLUbvZ: var(--token-3S9CCIWkY087);
+  --plasmic-token-17-sds-system-semantic-font-size-base-xs: var(
+    --token-LMeY1CyLUbvZ
+  );
+  --token-ic9v7ZSrr5CG: var(--token-ypNC8D7WqcRY);
+  --plasmic-token-17-sds-system-semantic-font-size-base-xl: var(
+    --token-ic9v7ZSrr5CG
+  );
+  --token-9mJRkFyMCQmf: var(--token-84Pt0QOrWnbu);
+  --plasmic-token-17-sds-system-semantic-font-size-base-2-xl: var(
+    --token-9mJRkFyMCQmf
+  );
+  --token-6_OW04N7P5qa: var(--token-CpBTFOp-sev_);
+  --plasmic-token-17-sds-system-semantic-font-size-base-3-xl: var(
+    --token-6_OW04N7P5qa
+  );
+  --token-DPZck9lxLYai: var(--token-3UoaLFH-04Mi);
+  --plasmic-token-17-sds-system-semantic-font-size-base-4-xl: var(
+    --token-DPZck9lxLYai
+  );
+  --token-KVU-Gd_0n-d3: var(--token-LMeY1CyLUbvZ);
+  --plasmic-token-17-sds-system-semantic-font-size-body-sm: var(
+    --token-KVU-Gd_0n-d3
+  );
+  --token-s9uuYr23Nu9x: var(--token-nzhJo5rxzpC3);
+  --plasmic-token-17-sds-system-semantic-font-size-body-lg: var(
+    --token-s9uuYr23Nu9x
+  );
+  --token-bMaHJu0sT_cY: var(--token-6vtqKQW7pR6t);
+  --plasmic-token-17-sds-system-base-breakpoint-height-md: var(
+    --token-bMaHJu0sT_cY
+  );
+  --token-6n2092o8ciUd: var(--token-YcRWr_uElmW1);
+  --plasmic-token-17-sds-system-base-breakpoint-height-sm: var(
+    --token-6n2092o8ciUd
+  );
+  --token-ExXIZ_ivgMS-: var(--token-HFAAqUUnW8NR);
+  --plasmic-token-17-sds-system-base-breakpoint-height-lg: var(
+    --token-ExXIZ_ivgMS-
+  );
+  --token-ZiwDtJEJ_QJ7: var(--token-LDkgapH1ZaVP);
+  --plasmic-token-17-sds-system-base-breakpoint-height-xl: var(
+    --token-ZiwDtJEJ_QJ7
+  );
+  --token-iPy9E30iko66: var(--token-JNy9Ik7GdiJB);
+  --plasmic-token-17-sds-system-base-breakpoint-height-2-xl: var(
+    --token-iPy9E30iko66
+  );
+  --token-v9nyVnKcrQ3v: var(--token-OXDkohOxEhra);
+  --plasmic-token-17-sds-system-base-breakpoint-base-2-xl: var(
+    --token-v9nyVnKcrQ3v
+  );
+  --token-HoBBKKdPNOP2: var(--token-j4-9pAFWt9gz);
+  --plasmic-token-17-sds-system-base-breakpoint-base-xl: var(
+    --token-HoBBKKdPNOP2
+  );
+  --token-4NfT7P-M1wmX: var(--token-PoQ_hCz3RIjV);
+  --plasmic-token-17-sds-system-base-breakpoint-base-lg: var(
+    --token-4NfT7P-M1wmX
+  );
+  --token-oMnTQBzAhR5y: var(--token-HFAAqUUnW8NR);
+  --plasmic-token-17-sds-system-base-breakpoint-base-md: var(
+    --token-oMnTQBzAhR5y
+  );
+  --token-51-YDBVgMdbA: var(--token-P3Cff6tfqSTA);
+  --plasmic-token-17-sds-system-base-breakpoint-base-sm: var(
+    --token-51-YDBVgMdbA
+  );
+  --token-oZd-zsftfBV7: var(--token-YcRWr_uElmW1);
+  --plasmic-token-17-sds-system-base-breakpoint-base-xs: var(
+    --token-oZd-zsftfBV7
+  );
+  --token-jTo8uDN8Dw1m: var(--token-RE-5b0rNKvzf);
+  --plasmic-token-17-sds-system-base-box-shadow-spread-100: var(
+    --token-jTo8uDN8Dw1m
+  );
+  --token-PBujGD-xzslZ: var(--token-X-Rd1vV1dY94);
+  --plasmic-token-17-sds-system-base-box-shadow-blur-100: var(
+    --token-PBujGD-xzslZ
+  );
+  --token-h8SL3SvJy6mW: var(--token-mO9Mdkj2S3G1);
+  --plasmic-token-17-sds-system-base-box-shadow-blur-200: var(
+    --token-h8SL3SvJy6mW
+  );
+  --token-dtoEBgcbsewN: var(--token-G69ArUxHbDyN);
+  --plasmic-token-17-sds-system-base-box-shadow-blur-300: var(
+    --token-dtoEBgcbsewN
+  );
+  --token-9uN1zJ675vy9: var(--token-Q27mVh2lKcpB);
+  --plasmic-token-17-sds-system-base-box-shadow-y-100: var(
+    --token-9uN1zJ675vy9
+  );
+  --token-BJG7Ilt3KFyx: var(--token-wYj_PVXdi9NM);
+  --plasmic-token-17-sds-system-base-box-shadow-y-200: var(
+    --token-BJG7Ilt3KFyx
+  );
+  --token-SjCtDtCnFTq2: var(--token-pm2BdQL4mieR);
+  --plasmic-token-17-sds-system-base-box-shadow-y-300: var(
+    --token-SjCtDtCnFTq2
+  );
+  --token-tmVoLkclnRny: var(--token-RE-5b0rNKvzf);
+  --plasmic-token-17-sds-system-base-box-shadow-y-400: var(
+    --token-tmVoLkclnRny
+  );
+  --token-nuFPT3ANqRX8: var(--token-CBJ9p8ySueGW);
+  --plasmic-token-17-sds-system-base-box-shadow-y-500: var(
+    --token-nuFPT3ANqRX8
+  );
+  --token-Uq6kesnt2tMa: var(--token-X-Rd1vV1dY94);
+  --plasmic-token-17-sds-system-base-box-shadow-y-600: var(
+    --token-Uq6kesnt2tMa
+  );
+  --token-FAaOohX-RR0K: var(--token-mO9Mdkj2S3G1);
+  --plasmic-token-17-sds-system-base-box-shadow-y-700: var(
+    --token-FAaOohX-RR0K
+  );
+  --token-xjRLiC4dVgmJ: var(--token-Q27mVh2lKcpB);
+  --plasmic-token-17-sds-system-base-box-shadow-x-100: var(
+    --token-xjRLiC4dVgmJ
+  );
+  --token-uXGJQRi1S6tX: var(--token-wYj_PVXdi9NM);
+  --plasmic-token-17-sds-system-base-box-shadow-x-200: var(
+    --token-uXGJQRi1S6tX
+  );
+  --token-FgdnlAkEJogi: var(--token-pm2BdQL4mieR);
+  --plasmic-token-17-sds-system-base-box-shadow-x-300: var(
+    --token-FgdnlAkEJogi
+  );
+  --token-WZ1mgldG6aAO: var(--token-RE-5b0rNKvzf);
+  --plasmic-token-17-sds-system-base-box-shadow-x-400: var(
+    --token-WZ1mgldG6aAO
+  );
+  --token-DhkI4kVoUWh1: var(--token-CBJ9p8ySueGW);
+  --plasmic-token-17-sds-system-base-box-shadow-x-500: var(
+    --token-DhkI4kVoUWh1
+  );
+  --token-qL7O17wNtKQH: var(--token-X-Rd1vV1dY94);
+  --plasmic-token-17-sds-system-base-box-shadow-x-600: var(
+    --token-qL7O17wNtKQH
+  );
+  --token-Ia-8wyOkd3ME: var(--token-mO9Mdkj2S3G1);
+  --plasmic-token-17-sds-system-base-box-shadow-x-700: var(
+    --token-Ia-8wyOkd3ME
+  );
+  --token-XJqtY0GqThWU: var(--token-p9Qul3XQuuQg);
+  --plasmic-token-17-sds-system-base-font-line-height-200: var(
+    --token-XJqtY0GqThWU
+  );
+  --token-Oh-813rEz37A: var(--token-jTo8uDN8Dw1m);
+  --plasmic-token-17-sds-system-semantic-box-shadow-spread-lg: var(
+    --token-Oh-813rEz37A
+  );
+  --token-E8lL-wDk6KRb: var(--token-jTo8uDN8Dw1m);
+  --plasmic-token-17-sds-system-semantic-box-shadow-spread-md: var(
+    --token-E8lL-wDk6KRb
+  );
+  --token-Z6uZ342sm2-G: var(--token-jTo8uDN8Dw1m);
+  --plasmic-token-17-sds-system-semantic-box-shadow-spread-sm: var(
+    --token-Z6uZ342sm2-G
+  );
+  --token-xQt47VJJX4cJ: var(--token-dtoEBgcbsewN);
+  --plasmic-token-17-sds-system-semantic-box-shadow-blur-lg: var(
+    --token-xQt47VJJX4cJ
+  );
+  --token-JL-BMBTk7UiP: var(--token-h8SL3SvJy6mW);
+  --plasmic-token-17-sds-system-semantic-box-shadow-blur-md: var(
+    --token-JL-BMBTk7UiP
+  );
+  --token-HJfnLRnfAj-e: var(--token-PBujGD-xzslZ);
+  --plasmic-token-17-sds-system-semantic-box-shadow-blur-sm: var(
+    --token-HJfnLRnfAj-e
+  );
+  --token-pC_fBNeYNKCG: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-lg-right: var(
+    --token-pC_fBNeYNKCG
+  );
+  --token-WLO8GArjH4vQ: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-lg-left: var(
+    --token-WLO8GArjH4vQ
+  );
+  --token-ZPsYI4O_w8qz: var(--token-FAaOohX-RR0K);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-lg-bottom: var(
+    --token-ZPsYI4O_w8qz
+  );
+  --token-kLYAtR5z-QdG: var(--token-9uN1zJ675vy9);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-lg-top: var(
+    --token-kLYAtR5z-QdG
+  );
+  --token-U3xLBWwnO4LU: var(--token-FAaOohX-RR0K);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-lg-base: var(
+    --token-U3xLBWwnO4LU
+  );
+  --token-6h2RMgahsTup: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-md-right: var(
+    --token-6h2RMgahsTup
+  );
+  --token-bmj-OYqG0-vO: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-md-left: var(
+    --token-bmj-OYqG0-vO
+  );
+  --token-AX-6LxnVLSZz: var(--token-Uq6kesnt2tMa);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-md-bottom: var(
+    --token-AX-6LxnVLSZz
+  );
+  --token-edAyaHZEf4Dm: var(--token-BJG7Ilt3KFyx);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-md-top: var(
+    --token-edAyaHZEf4Dm
+  );
+  --token-_JHA71obmOjQ: var(--token-Uq6kesnt2tMa);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-md-base: var(
+    --token-_JHA71obmOjQ
+  );
+  --token-539OJVgC3s5B: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-sm-right: var(
+    --token-539OJVgC3s5B
+  );
+  --token-JG0SuRluoce6: var(--token-tmVoLkclnRny);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-sm-left: var(
+    --token-JG0SuRluoce6
+  );
+  --token-O2EpPtNtIwJE: var(--token-nuFPT3ANqRX8);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-sm-bottom: var(
+    --token-O2EpPtNtIwJE
+  );
+  --token-dj1OZJ7C1TPO: var(--token-SjCtDtCnFTq2);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-sm-top: var(
+    --token-dj1OZJ7C1TPO
+  );
+  --token-XziQw7qinov_: var(--token-nuFPT3ANqRX8);
+  --plasmic-token-17-sds-system-semantic-box-shadow-y-sm-base: var(
+    --token-XziQw7qinov_
+  );
+  --token-dgE_FdT-0f_d: var(--token-Ia-8wyOkd3ME);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-lg-right: var(
+    --token-dgE_FdT-0f_d
+  );
+  --token-IUyc5GRT3LLw: var(--token-xjRLiC4dVgmJ);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-lg-left: var(
+    --token-IUyc5GRT3LLw
+  );
+  --token-CUH1W-sHm_3f: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-lg-bottom: var(
+    --token-CUH1W-sHm_3f
+  );
+  --token-MKai-I6jubc-: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-lg-top: var(
+    --token-MKai-I6jubc-
+  );
+  --token-uXTXnl5u47aA: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-lg-base: var(
+    --token-uXTXnl5u47aA
+  );
+  --token-C98LtXXkt9LO: var(--token-qL7O17wNtKQH);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-md-right: var(
+    --token-C98LtXXkt9LO
+  );
+  --token-8bHH348_ZS1S: var(--token-uXGJQRi1S6tX);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-md-left: var(
+    --token-8bHH348_ZS1S
+  );
+  --token-b-VKxjD6vXXX: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-md-bottom: var(
+    --token-b-VKxjD6vXXX
+  );
+  --token-FgVRkzaV0JYX: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-md-top: var(
+    --token-FgVRkzaV0JYX
+  );
+  --token-JbaculIGJIVo: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-md-base: var(
+    --token-JbaculIGJIVo
+  );
+  --token-GUOOpzQmspQj: var(--token-DhkI4kVoUWh1);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-sm-right: var(
+    --token-GUOOpzQmspQj
+  );
+  --token-MIwULU_bVfx5: var(--token-FgdnlAkEJogi);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-sm-left: var(
+    --token-MIwULU_bVfx5
+  );
+  --token-KkYIF6gdFd09: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-sm-bottom: var(
+    --token-KkYIF6gdFd09
+  );
+  --token-U2oyye4hUoD3: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-sm-top: var(
+    --token-U2oyye4hUoD3
+  );
+  --token-K6TT4WCVb8WG: var(--token-WZ1mgldG6aAO);
+  --plasmic-token-17-sds-system-semantic-box-shadow-x-sm-base: var(
+    --token-K6TT4WCVb8WG
+  );
+  --token-Wl1ObBCBsF6G: var(--token-1fU53D5PEO5_);
+  --plasmic-token-17-sds-system-semantic-font-line-height-body-base: var(
+    --token-Wl1ObBCBsF6G
+  );
+  --token-N4ElV-FxqKxt: var(--token-XJqtY0GqThWU);
+  --plasmic-token-17-sds-system-semantic-font-line-height-heading-base: var(
+    --token-N4ElV-FxqKxt
+  );
+  --token-fWMlj725Zav9: var(--token-vg-6O4VMKcN3);
+  --plasmic-token-17-sds-system-semantic-font-family-heading: var(
+    --token-fWMlj725Zav9
+  );
+  --token-RoThV5qN2F1q: var(--token-_9Djz6ogGlUK);
+  --plasmic-token-17-sds-system-semantic-font-family-mono: var(
+    --token-RoThV5qN2F1q
+  );
+  --token-UkwhnwCYfIe_: var(--token-Litr8JyZAwjE);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-medium: var(
+    --token-UkwhnwCYfIe_
+  );
+  --token-qmb8odWemdUO: var(--token-K0-XIdZp-KoX);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-large: var(
+    --token-qmb8odWemdUO
+  );
+  --token-jEqeY4gFUhl0: var(--token-9uj0gMSkfdc6);
+  --plasmic-token-17-sds-system-semantic-border-radius-base-pill: var(
+    --token-jEqeY4gFUhl0
+  );
+  --token-Q1GK6w6Mfwi1: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-control-pressed: var(
+    --token-Q1GK6w6Mfwi1
+  );
+  --token-CIRxI_QuGqKr: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-control-hover: var(
+    --token-CIRxI_QuGqKr
+  );
+  --token-d-8rTfOcxOwx: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-control-base: var(
+    --token-d-8rTfOcxOwx
+  );
+  --token-YoIOB8xR7skb: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-action-pressed: var(
+    --token-YoIOB8xR7skb
+  );
+  --token-NHaCXdVH3P6N: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-action-hover: var(
+    --token-NHaCXdVH3P6N
+  );
+  --token-GMAwGzRRZwPv: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-action-base: var(
+    --token-GMAwGzRRZwPv
+  );
+  --token-kO0fBEeNsqKL: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-box-status-read: var(
+    --token-kO0fBEeNsqKL
+  );
+  --token-Gcji02SBkIrG: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-box-status-base: var(
+    --token-Gcji02SBkIrG
+  );
+  --token-d9V04wQL-ENt: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-base-pressed: var(
+    --token-d9V04wQL-ENt
+  );
+  --token-9bT8WYOPD9n6: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-base-hover: var(
+    --token-9bT8WYOPD9n6
+  );
+  --token-yFgDyItuZi2r: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-base-base: var(
+    --token-yFgDyItuZi2r
+  );
+  --token--ilYiFPJklPH: var(--token-Blkoc77RwXpU);
+  --plasmic-token-17-sds-system-semantic-border-width-base-strong: var(
+    --token--ilYiFPJklPH
+  );
+  --token-401TO5Z5VvFT: var(--token-KlEGYCzvTa9f);
+  --plasmic-token-17-sds-system-semantic-border-width-base-extra-strong: var(
+    --token-401TO5Z5VvFT
+  );
+  --token-Os3tAJ3lItCb: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-divider-pressed: var(
+    --token-Os3tAJ3lItCb
+  );
+  --token-jFEnyD_AOfxW: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-divider-hover: var(
+    --token-jFEnyD_AOfxW
+  );
+  --token-LI8MXSubyr_p: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-divider-base: var(
+    --token-LI8MXSubyr_p
+  );
+  --token-1bO3wS_66YUi: var(--token-0FOyzJqwibTr);
+  --plasmic-token-17-sds-system-semantic-border-width-base-regular: var(
+    --token-1bO3wS_66YUi
+  );
+  --token-eCE4UuQ4fKMp: var(--token-enpjUkmpo_Wt);
+  --plasmic-token-17-sds-system-base-text-color-link-300: var(
+    --token-eCE4UuQ4fKMp
+  );
+  --token-lVgEsMVSjRVD: var(--token-axyCJIfdO6Zm);
+  --plasmic-token-17-sds-system-base-text-color-link-200: var(
+    --token-lVgEsMVSjRVD
+  );
+  --token-1QD-W-bEYh-n: var(--token-Gty8_2GA06Cb);
+  --plasmic-token-17-sds-system-base-text-color-link-100: var(
+    --token-1QD-W-bEYh-n
+  );
+  --token--OkMpcDSlGop: var(--token-kkvriLVVd8Df);
+  --plasmic-token-17-sds-system-semantic-text-color-base-subtle: var(
+    --token--OkMpcDSlGop
+  );
+  --token-8xDXbOmy6Dg8: var(--token-zO9WZNlbKj_W);
+  --plasmic-token-17-sds-system-semantic-text-color-base-inverse: var(
+    --token-8xDXbOmy6Dg8
+  );
+  --token-YgV8LezAjwD-: var(--token-ADwnlh8TRVEd);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-status-custom: var(
+    --token-YgV8LezAjwD-
+  );
+  --token-By-ptqneaTHy: var(--token-rn2bPzQ7es5N);
+  --plasmic-token-17-sds-system-semantic-text-color-status-custom: var(
+    --token-By-ptqneaTHy
+  );
+  --token-cIuZmso7IFoK: var(--token-OzUI7-DhhUEo);
+  --plasmic-token-17-sds-system-base-color-status-custom-400: var(
+    --token-cIuZmso7IFoK
+  );
+  --token-p_4PAyiOl1gl: var(--token-JFmUnmXCfRta);
+  --plasmic-token-17-sds-system-base-color-status-custom-500: var(
+    --token-p_4PAyiOl1gl
+  );
+  --token-rn2bPzQ7es5N: var(--token-p_4PAyiOl1gl);
+  --plasmic-token-17-sds-system-semantic-color-status-custom-stronger: var(
+    --token-rn2bPzQ7es5N
+  );
+  --token-cffpXd2FjGwj: var(--token-cIuZmso7IFoK);
+  --plasmic-token-17-sds-system-semantic-color-status-custom-strong: var(
+    --token-cffpXd2FjGwj
+  );
+  --token-SWmEpKal7bBX: var(--token-QS_IYJINZmXb);
+  --plasmic-token-17-sds-system-semantic-border-color-status-custom: var(
+    --token-SWmEpKal7bBX
+  );
+  --token-Oq4Zbzq6M15N: var(--token-bmb-DHNkCmRA);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-inverse: var(
+    --token-Oq4Zbzq6M15N
+  );
+  --token-ymqCBcKuqAwk: var(--token-b4UF7wnPwVPI);
+  --plasmic-token-17-sds-system-base-icon-color-base-100: var(
+    --token-ymqCBcKuqAwk
+  );
+  --token-CsLPrPOSUGA4: var(--token-ZdI-W5zQ8q52);
+  --plasmic-token-17-sds-system-base-icon-color-base-300: var(
+    --token-CsLPrPOSUGA4
+  );
+  --token-bmb-DHNkCmRA: var(--token-AFCJ0laTLrEd);
+  --plasmic-token-17-sds-system-base-icon-color-base-400: var(
+    --token-bmb-DHNkCmRA
+  );
+  --token-HdiLfPgrYPMB: var(--token-D0xFM5xHQUsb);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-status-positive: var(
+    --token-HdiLfPgrYPMB
+  );
+  --token-n57nrcxyHQZX: var(--token-ADwnlh8TRVEd);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-status-custom: var(
+    --token-n57nrcxyHQZX
+  );
+  --token-6BDx9csrh0Tl: var(--token-PkPvuMQH6LEY);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-subtle: var(
+    --token-6BDx9csrh0Tl
+  );
+  --token-t-h8V6leIspd: var(--token-50afh9KHRnOQ);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-regular: var(
+    --token-t-h8V6leIspd
+  );
+  --token-k_NVuAOlrPKt: var(--token-BghDQ68dAtMY);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-disabled: var(
+    --token-k_NVuAOlrPKt
+  );
+  --token-84xCCOZJt9We: var(--token-JZqE0HA6PyrE);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-on-disabled: var(
+    --token-84xCCOZJt9We
+  );
+  --token-ngQLcHE1xtBH: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-icon-color-disabled-100: var(
+    --token-ngQLcHE1xtBH
+  );
+  --token-BghDQ68dAtMY: var(--token-TiPVh24ZhEs5);
+  --plasmic-token-17-sds-system-base-icon-color-disabled-200: var(
+    --token-BghDQ68dAtMY
+  );
+  --token-JZqE0HA6PyrE: var(--token-C55EMsbocuaS);
+  --plasmic-token-17-sds-system-base-icon-color-disabled-300: var(
+    --token-JZqE0HA6PyrE
+  );
+  --token-XeZOKtbHqJgl: var(--token-nLjFV9iH46L9);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-brand: var(
+    --token-XeZOKtbHqJgl
+  );
+  --token-wwAVOpvR7J4E: var(--token-WQKQHGU4Ozod);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-status-info: var(
+    --token-wwAVOpvR7J4E
+  );
+  --token-Lx1AA4aiNW1k: var(--token-S14E-MXmKjru);
+  --plasmic-token-17-sds-system-semantic-color-status-info-strong: var(
+    --token-Lx1AA4aiNW1k
+  );
+  --token-d4hnrxWtfQNr: var(--token-Nh0nvkO-UCXF);
+  --plasmic-token-17-sds-system-semantic-color-status-info-stronger: var(
+    --token-d4hnrxWtfQNr
+  );
+  --token-wD201HvT9qiK: var(--token-d4hnrxWtfQNr);
+  --plasmic-token-17-sds-system-semantic-text-color-status-info: var(
+    --token-wD201HvT9qiK
+  );
+  --token-9tO_HEt8aDYy: var(--token-kJiFVbPb4Vuv);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-status-negative: var(
+    --token-9tO_HEt8aDYy
+  );
+  --token-69sICUIsMlBt: var(--token-YS29uLDJb9nz);
+  --plasmic-token-17-sds-system-semantic-color-status-negative-strong: var(
+    --token-69sICUIsMlBt
+  );
+  --token-40L3kLawYj89: var(--token--aMPuFaV17Lp);
+  --plasmic-token-17-sds-system-semantic-color-status-negative-stronger: var(
+    --token-40L3kLawYj89
+  );
+  --token-u8Ga06useH4m: var(--token-RKDuvr2DoNwp);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-status-notice: var(
+    --token-u8Ga06useH4m
+  );
+  --token-4PZusXk2B7l2: var(--token-UtVKUIUtO-dx);
+  --plasmic-token-17-sds-system-semantic-color-status-notice-strong: var(
+    --token-4PZusXk2B7l2
+  );
+  --token-9vZpKDaB6B1K: var(--token-_QUH6QvUpKAN);
+  --plasmic-token-17-sds-system-semantic-color-status-notice-stronger: var(
+    --token-9vZpKDaB6B1K
+  );
+  --token-h0gn0PWc2xYQ: var(--token-9Ny7qUmqf_EG);
+  --plasmic-token-17-sds-system-semantic-color-status-positive-stronger: var(
+    --token-h0gn0PWc2xYQ
+  );
+  --token-l86H8rhe5bv0: var(--token-3JLr_5OUIE6t);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-status-positive: var(
+    --token-l86H8rhe5bv0
+  );
+  --token-kUZCw0puHfsV: var(--token-h0gn0PWc2xYQ);
+  --plasmic-token-17-sds-system-semantic-text-color-status-positive: var(
+    --token-kUZCw0puHfsV
+  );
+  --token-UissbD2-3mB-: var(--token-40L3kLawYj89);
+  --plasmic-token-17-sds-system-semantic-text-color-status-negative: var(
+    --token-UissbD2-3mB-
+  );
+  --token-0_RAXAn6oj1t: var(--token-9vZpKDaB6B1K);
+  --plasmic-token-17-sds-system-semantic-text-color-status-notice: var(
+    --token-0_RAXAn6oj1t
+  );
+  --token-lwXHLJcyYPWy: var(--token-69sICUIsMlBt);
+  --plasmic-token-17-sds-system-semantic-color-unread-attention: var(
+    --token-lwXHLJcyYPWy
+  );
+  --token--8sHepW8XyB4: var(--token-Gty8_2GA06Cb);
+  --plasmic-token-17-sds-system-base-color-brand-100: var(--token--8sHepW8XyB4);
+  --token-Xrrk5z5WTBtU: var(--token-khZgvDKYlFhV);
+  --plasmic-token-17-sds-system-base-color-brand-200: var(--token-Xrrk5z5WTBtU);
+  --token-rOM1ME1mUWMz: var(--token-FLTF-BFdzkQH);
+  --plasmic-token-17-sds-system-base-color-brand-300: var(--token-rOM1ME1mUWMz);
+  --token-AN0wpHF1lVdK: var(--token-TygQtT3Ehj1d);
+  --plasmic-token-17-sds-system-base-background-color-highlight-100: var(
+    --token-AN0wpHF1lVdK
+  );
+  --token-p35Lpajiw9SA: var(--token-qVkE6NIWzrdF);
+  --plasmic-token-17-sds-system-base-background-color-highlight-200: var(
+    --token-p35Lpajiw9SA
+  );
+  --token-jv1Ir1IauwRC: var(--token-GqfCNouMRmpM);
+  --plasmic-token-17-sds-system-base-background-color-base-200: var(
+    --token-jv1Ir1IauwRC
+  );
+  --token-R3T5XGZCSLps: var(--token-pX_4lpXqEHw2);
+  --plasmic-token-17-sds-system-base-background-color-base-300: var(
+    --token-R3T5XGZCSLps
+  );
+  --token-H-W0oa1KTppi: var(--token-O0rgjewUxG_S);
+  --plasmic-token-17-sds-system-base-background-color-base-500: var(
+    --token-H-W0oa1KTppi
+  );
+  --token-D3TSODZU3fY6: var(--token-zngtfJDxDBTs);
+  --plasmic-token-17-sds-system-base-background-color-base-900: var(
+    --token-D3TSODZU3fY6
+  );
+  --token-kR2kpsLDHpV3: var(--token-wXho0iS1uor9);
+  --plasmic-token-17-sds-system-base-background-color-base-600: var(
+    --token-kR2kpsLDHpV3
+  );
+  --token-_Jl_nMnQgvTO: var(--token--MNw7MQEXGfM);
+  --plasmic-token-17-sds-system-base-background-color-base-400: var(
+    --token-_Jl_nMnQgvTO
+  );
+  --token-kdZHUM0xjzcF: var(--token-VPB3WV3IT1gq);
+  --plasmic-token-17-sds-system-base-box-shadow-color-100: var(
+    --token-kdZHUM0xjzcF
+  );
+  --token-XaTPN0P4ML8_: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-box-shadow-color-200: var(
+    --token-XaTPN0P4ML8_
+  );
+  --token-_onXXJhWb0UR: var(--token-OlSC77BWi0Eq);
+  --plasmic-token-17-sds-system-base-border-color-200: var(
+    --token-_onXXJhWb0UR
+  );
+  --token-0PKXNXwRL2I9: var(--token-TiPVh24ZhEs5);
+  --plasmic-token-17-sds-system-base-border-color-300: var(
+    --token-0PKXNXwRL2I9
+  );
+  --token-AQpDzJPUtdkr: var(--token-bYax8giCMWFM);
+  --plasmic-token-17-sds-system-base-border-color-400: var(
+    --token-AQpDzJPUtdkr
+  );
+  --token-ltb80-vM4iQA: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-color-disabled-100: var(
+    --token-ltb80-vM4iQA
+  );
+  --token-shEbTvK3Tfoh: var(--token-TiPVh24ZhEs5);
+  --plasmic-token-17-sds-system-base-color-disabled-200: var(
+    --token-shEbTvK3Tfoh
+  );
+  --token-KvnyAewKBeug: var(--token-bYax8giCMWFM);
+  --plasmic-token-17-sds-system-base-color-disabled-300: var(
+    --token-KvnyAewKBeug
+  );
+  --token-rF1K2jwgUZKF: var(--token-qVkE6NIWzrdF);
+  --plasmic-token-17-sds-system-base-color-favorite-100: var(
+    --token-rF1K2jwgUZKF
+  );
+  --token-fpqdt6dcnwpz: var(--token-5ZS3VskDJfKc);
+  --plasmic-token-17-sds-system-base-color-favorite-200: var(
+    --token-fpqdt6dcnwpz
+  );
+  --token-sF6L07CnHPWr: var(--token-Gty8_2GA06Cb);
+  --plasmic-token-17-sds-system-base-color-severity-none-100: var(
+    --token-sF6L07CnHPWr
+  );
+  --token-hlnce3FdDx55: var(--token-bYax8giCMWFM);
+  --plasmic-token-17-sds-system-base-color-severity-minor-100: var(
+    --token-hlnce3FdDx55
+  );
+  --token-xaNC-js62vpb: var(--token-qVkE6NIWzrdF);
+  --plasmic-token-17-sds-system-base-color-severity-moderate-100: var(
+    --token-xaNC-js62vpb
+  );
+  --token-F-iVy6mB1vr8: var(--token-GwY2J-VAMZji);
+  --plasmic-token-17-sds-system-base-color-severity-important-100: var(
+    --token-F-iVy6mB1vr8
+  );
+  --token-igZI10u7zLL8: var(--token-gMoIbKLp7eY-);
+  --plasmic-token-17-sds-system-base-color-severity-critical-100: var(
+    --token-igZI10u7zLL8
+  );
+  --token-D04nJ8IdCaBD: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-color-severity-undefined-100: var(
+    --token-D04nJ8IdCaBD
+  );
+  --token-nLjFV9iH46L9: var(--token-Xrrk5z5WTBtU);
+  --plasmic-token-17-sds-system-semantic-color-brand-base: var(
+    --token-nLjFV9iH46L9
+  );
+  --token-e-7nuMTGq2-b: var(--token-Oq4Zbzq6M15N);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-base-base: var(
+    --token-e-7nuMTGq2-b
+  );
+  --token-wt2hyvmNkAfv: var(--token-rF1K2jwgUZKF);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-favorite: var(
+    --token-wt2hyvmNkAfv
+  );
+  --token-rfZCRo-khjNA: var(--token-rF1K2jwgUZKF);
+  --plasmic-token-17-sds-system-semantic-color-favorite-base: var(
+    --token-rfZCRo-khjNA
+  );
+  --token-7U8Bkcx1pRLu: var(--token-h0gn0PWc2xYQ);
+  --plasmic-token-17-sds-system-semantic-icon-color-status-positive: var(
+    --token-7U8Bkcx1pRLu
+  );
+  --token-xwe9yFGXGbI6: var(--token-kJiFVbPb4Vuv);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-status-negative: var(
+    --token-xwe9yFGXGbI6
+  );
+  --token-OdL3SKgc23wt: var(--token-40L3kLawYj89);
+  --plasmic-token-17-sds-system-semantic-icon-color-status-negative: var(
+    --token-OdL3SKgc23wt
+  );
+  --token-fO3-AsUo_Zz3: var(--token-9vZpKDaB6B1K);
+  --plasmic-token-17-sds-system-semantic-icon-color-status-notice: var(
+    --token-fO3-AsUo_Zz3
+  );
+  --token-puwoyFCOF0yr: var(--token-d4hnrxWtfQNr);
+  --plasmic-token-17-sds-system-semantic-icon-color-status-info: var(
+    --token-puwoyFCOF0yr
+  );
+  --token-y9oU4x5bXPqT: var(--token-WQKQHGU4Ozod);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-status-info: var(
+    --token-y9oU4x5bXPqT
+  );
+  --token-DrVTpKlJRr4q: var(--token-RKDuvr2DoNwp);
+  --plasmic-token-17-sds-system-semantic-icon-color-on-color-status-notice: var(
+    --token-DrVTpKlJRr4q
+  );
+  --token-tPjPIqrBIEPV: var(--token-rn2bPzQ7es5N);
+  --plasmic-token-17-sds-system-semantic-icon-color-status-custom: var(
+    --token-tPjPIqrBIEPV
+  );
+  --token-db0b7Z8kS87t: var(--token-D04nJ8IdCaBD);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-undefined: var(
+    --token-db0b7Z8kS87t
+  );
+  --token-7dIw9oxbETCh: var(--token-sF6L07CnHPWr);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-none: var(
+    --token-7dIw9oxbETCh
+  );
+  --token-tZdfu9NOlkEk: var(--token-hlnce3FdDx55);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-minor: var(
+    --token-tZdfu9NOlkEk
+  );
+  --token-Wpy3THukLY30: var(--token-xaNC-js62vpb);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-moderate: var(
+    --token-Wpy3THukLY30
+  );
+  --token-mUUqIOaZJpaG: var(--token-F-iVy6mB1vr8);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-important: var(
+    --token-mUUqIOaZJpaG
+  );
+  --token-rz1XG-cs5TTn: var(--token-igZI10u7zLL8);
+  --plasmic-token-17-sds-system-semantic-icon-color-severity-critical: var(
+    --token-rz1XG-cs5TTn
+  );
+  --token-JJ3RIufLAaFO: var(--token-s-DSJFmhwM5u);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-base-positive: var(
+    --token-JJ3RIufLAaFO
+  );
+  --token-cMa5ICSqW2a4: var(--token-69sICUIsMlBt);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-base-negative: var(
+    --token-cMa5ICSqW2a4
+  );
+  --token-pNEVWcqglwzZ: var(--token-Lx1AA4aiNW1k);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-base-info: var(
+    --token-pNEVWcqglwzZ
+  );
+  --token-fbNlRRVl4jQF: var(--token-4PZusXk2B7l2);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-base-notice: var(
+    --token-fbNlRRVl4jQF
+  );
+  --token-2cpoG98citX3: var(--token-cffpXd2FjGwj);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-base-custom: var(
+    --token-2cpoG98citX3
+  );
+  --token-asyb5CxobLRn: var(--token-ujiaN0jIk287);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-base-strong: var(
+    --token-asyb5CxobLRn
+  );
+  --token-3S9bewGeWTgi: var(--token-jv1Ir1IauwRC);
+  --plasmic-token-17-sds-system-semantic-background-color-component-floating-base: var(
+    --token-3S9bewGeWTgi
+  );
+  --token-YKhv_gUjLW_o: var(--token-R3T5XGZCSLps);
+  --plasmic-token-17-sds-system-semantic-background-color-component-floating-prssed: var(
+    --token-YKhv_gUjLW_o
+  );
+  --token-245W_N2jdMU_: #f3f4f600;
+  --plasmic-token-17-sds-system-semantic-background-color-component-action-plain-base: var(
+    --token-245W_N2jdMU_
+  );
+  --token-MQO5URte9deY: var(--token-5Z8GnaIPldUZ);
+  --plasmic-token-17-sds-system-semantic-background-color-component-control-base: var(
+    --token-MQO5URte9deY
+  );
+  --token-STGyPWkImtSG: var(--token-D3TSODZU3fY6);
+  --plasmic-token-17-sds-system-semantic-background-color-base-inverse: var(
+    --token-STGyPWkImtSG
+  );
+  --token-czFxoYUXiarL: var(--token-kR2kpsLDHpV3);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-backdrop-base: var(
+    --token-czFxoYUXiarL
+  );
+  --token-I2i8krUsk7dk: var(--token-enZJMAS-eyCi);
+  --plasmic-token-17-sds-system-base-color-status-info-100: var(
+    --token-I2i8krUsk7dk
+  );
+  --token-2wPhwubnAJYe: var(--token-FUkyk0iogTUf);
+  --plasmic-token-17-sds-system-base-color-status-info-200: var(
+    --token-2wPhwubnAJYe
+  );
+  --token-Nh0nvkO-UCXF: var(--token-Gty8_2GA06Cb);
+  --plasmic-token-17-sds-system-base-color-status-info-500: var(
+    --token-Nh0nvkO-UCXF
+  );
+  --token-ZKXICnIG27Xb: var(--token-KLKPZyIeo7Ka);
+  --plasmic-token-17-sds-system-base-color-status-positive-300: var(
+    --token-ZKXICnIG27Xb
+  );
+  --token-5Qk4iDvh_s8J: var(--token-6Wg439ZjD1Ln);
+  --plasmic-token-17-sds-system-base-color-status-positive-200: var(
+    --token-5Qk4iDvh_s8J
+  );
+  --token-YgHgbo4lcxZ-: var(--token-HdU9KbK__kB3);
+  --plasmic-token-17-sds-system-base-color-status-positive-100: var(
+    --token-YgHgbo4lcxZ-
+  );
+  --token-mVP4IPgInJ6E: var(--token-GdEbztdmnHii);
+  --plasmic-token-17-sds-system-base-color-status-notice-200: var(
+    --token-mVP4IPgInJ6E
+  );
+  --token-aEvluA44jdHg: var(--token-j-tQjlkdA-E-);
+  --plasmic-token-17-sds-system-base-color-status-notice-100: var(
+    --token-aEvluA44jdHg
+  );
+  --token-50vfLU6wGcWl: var(--token-3TR-lNattviB);
+  --plasmic-token-17-sds-system-base-color-status-negative-200: var(
+    --token-50vfLU6wGcWl
+  );
+  --token-TIUFARO1AVVm: var(--token-g5cj-HhVHQ-L);
+  --plasmic-token-17-sds-system-base-color-status-negative-100: var(
+    --token-TIUFARO1AVVm
+  );
+  --token-MqaWGEMsspw9: var(--token-uNI05OJ9hONB);
+  --plasmic-token-17-sds-system-base-color-status-custom-300: var(
+    --token-MqaWGEMsspw9
+  );
+  --token-tf3fWmujAZhk: var(--token-VIipYvJj5Pra);
+  --plasmic-token-17-sds-system-base-color-status-custom-200: var(
+    --token-tf3fWmujAZhk
+  );
+  --token-sMC9el_QSN0T: var(--token-y5fLF4a0Lug4);
+  --plasmic-token-17-sds-system-base-color-status-custom-100: var(
+    --token-sMC9el_QSN0T
+  );
+  --token-nlu4OfAe565s: var(--token-qrobYg03XHci);
+  --plasmic-token-17-sds-system-semantic-border-color-status-info: var(
+    --token-nlu4OfAe565s
+  );
+  --token-XXkRuC-kWjhC: var(--token-H_Ia1j7sqx-x);
+  --plasmic-token-17-sds-system-semantic-border-color-status-negative: var(
+    --token-XXkRuC-kWjhC
+  );
+  --token-lpMlGaXS6KFf: var(--token-VCQH3-nNICMD);
+  --plasmic-token-17-sds-system-semantic-border-color-status-notice: var(
+    --token-lpMlGaXS6KFf
+  );
+  --token-0l0XqViBeyXn: var(--token-5FwrRmmSX52_);
+  --plasmic-token-17-sds-system-semantic-border-color-status-positive: var(
+    --token-0l0XqViBeyXn
+  );
+  --token-o1mwbB3EqEMt: var(--token-Y0K1k-y_PS2a);
+  --plasmic-token-17-sds-system-base-outline-color-100: var(
+    --token-o1mwbB3EqEMt
+  );
+  --token-yv2WNAuOLbnK: var(--token-o1mwbB3EqEMt);
+  --plasmic-token-17-sds-system-semantic-outline-color-base: var(
+    --token-yv2WNAuOLbnK
+  );
+  --token-NUel9uiqEIWH: var(--token-U3yyBuZnTQ8J);
+  --plasmic-token-17-sds-system-base-background-color-base-100: var(
+    --token-NUel9uiqEIWH
+  );
+  --token-4LJcFUemJl90: var(--token-UnzVqTvmFoCl);
+  --plasmic-token-17-sds-system-base-background-color-base-700: var(
+    --token-4LJcFUemJl90
+  );
+  --token-Q0Nw4m-0se8s: var(--token-hp2rdjPLreS_);
+  --plasmic-token-17-sds-system-base-background-color-base-800: var(
+    --token-Q0Nw4m-0se8s
+  );
+  --token-sEWTdZZnZGYG: var(--token-1ZJ-uw-902rP);
+  --plasmic-token-17-sds-system-base-background-color-base-1000: var(
+    --token-sEWTdZZnZGYG
+  );
+  --token-U3yyBuZnTQ8J: var(--token-F2j0Fb6y5GQ3);
+  --plasmic-token-17-sds-system-base-color-base-100: var(--token-U3yyBuZnTQ8J);
+  --token-GqfCNouMRmpM: var(--token-AFCJ0laTLrEd);
+  --plasmic-token-17-sds-system-base-color-base-200: var(--token-GqfCNouMRmpM);
+  --token-pX_4lpXqEHw2: var(--token-HvLQDs3Vs_5c);
+  --plasmic-token-17-sds-system-base-color-base-300: var(--token-pX_4lpXqEHw2);
+  --token--MNw7MQEXGfM: var(--token-OlSC77BWi0Eq);
+  --plasmic-token-17-sds-system-base-color-base-400: var(--token--MNw7MQEXGfM);
+  --token-O0rgjewUxG_S: var(--token-VPB3WV3IT1gq);
+  --plasmic-token-17-sds-system-base-color-base-500: var(--token-O0rgjewUxG_S);
+  --token-wXho0iS1uor9: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-color-base-600: var(--token-wXho0iS1uor9);
+  --token-UnzVqTvmFoCl: var(--token-TiPVh24ZhEs5);
+  --plasmic-token-17-sds-system-base-color-base-700: var(--token-UnzVqTvmFoCl);
+  --token-hp2rdjPLreS_: var(--token-ZdI-W5zQ8q52);
+  --plasmic-token-17-sds-system-base-color-base-800: var(--token-hp2rdjPLreS_);
+  --token-zngtfJDxDBTs: var(--token-C55EMsbocuaS);
+  --plasmic-token-17-sds-system-base-color-base-900: var(--token-zngtfJDxDBTs);
+  --token-1ZJ-uw-902rP: var(--token-b4UF7wnPwVPI);
+  --plasmic-token-17-sds-system-base-color-base-1000: var(--token-1ZJ-uw-902rP);
+  --token-yiYdmjgd0tgr: var(--token-MWQMPSVubdO1);
+  --plasmic-token-17-sds-system-base-color-base-000: var(--token-yiYdmjgd0tgr);
+  --token-HoxENEKON5xd: var(--token-yiYdmjgd0tgr);
+  --plasmic-token-17-sds-system-base-background-color-base-000: var(
+    --token-HoxENEKON5xd
+  );
+  --token-5Z8GnaIPldUZ: var(--token-H-W0oa1KTppi);
+  --plasmic-token-17-sds-system-semantic-background-color-base-base: var(
+    --token-5Z8GnaIPldUZ
+  );
+  --token-RyKRIQQNvC3-: var(--token-HoxENEKON5xd);
+  --plasmic-token-17-sds-system-semantic-background-color-base-clear: var(
+    --token-RyKRIQQNvC3-
+  );
+  --token-5MHlTWX0IVQM: var(--token-sEWTdZZnZGYG);
+  --plasmic-token-17-sds-system-semantic-background-color-base-deep: var(
+    --token-5MHlTWX0IVQM
+  );
+  --token-esMSzi6WyBay: var(--token-NUel9uiqEIWH);
+  --plasmic-token-17-sds-system-semantic-background-color-base-subtle: var(
+    --token-esMSzi6WyBay
+  );
+  --token-_6_DjnLaKJNL: var(--token-Alt9beVlWqdg);
+  --plasmic-token-17-sds-system-base-interaction-color-100: var(
+    --token-_6_DjnLaKJNL
+  );
+  --token-qkr2x6UeNQAR: var(--token-mnDEmZiho9EF);
+  --plasmic-token-17-sds-system-base-interaction-color-200: var(
+    --token-qkr2x6UeNQAR
+  );
+  --token-uZxlC_seeySm: var(--token-Knn8F0I3Fzq0);
+  --plasmic-token-17-sds-system-base-interaction-color-300: var(
+    --token-uZxlC_seeySm
+  );
+  --token-aW5iASd45B_s: var(--token-llRzkc7fm66n);
+  --plasmic-token-17-sds-system-base-background-color-overlay-300: var(
+    --token-aW5iASd45B_s
+  );
+  --token-o1vX2BPYKtKF: var(--token-XCj2x6L6iZlV);
+  --plasmic-token-17-sds-system-base-background-color-overlay-200: var(
+    --token-o1vX2BPYKtKF
+  );
+  --token-2tXCG0G43yFP: var(--token-sfRZwtdX1Gr3);
+  --plasmic-token-17-sds-system-base-background-color-overlay-100: var(
+    --token-2tXCG0G43yFP
+  );
+  --token-6GU2kp7-yxP2: var(--token-_6_DjnLaKJNL);
+  --plasmic-token-17-sds-system-semantic-interaction-color-focused: var(
+    --token-6GU2kp7-yxP2
+  );
+  --token-7DdNV4UCZUai: var(--token-llRzkc7fm66n);
+  --plasmic-token-17-sds-system-semantic-interaction-color-hovered: var(
+    --token-7DdNV4UCZUai
+  );
+  --token-5nGdS1S4JDoh: var(--token-RnW2wsB9oeMU);
+  --plasmic-token-17-sds-system-semantic-interaction-color-pressed: var(
+    --token-5nGdS1S4JDoh
+  );
+  --token-JBjs0ygaxI8W: var(--token-aW5iASd45B_s);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-overlay-darken: var(
+    --token-JBjs0ygaxI8W
+  );
+  --token-ngeAb24pSuDf: var(--token-2tXCG0G43yFP);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-overlay-lighten: var(
+    --token-ngeAb24pSuDf
+  );
+  --token-aeber57MIOfr: var(--token-MWQMPSVubdO1);
+  --plasmic-token-17-sds-system-base-border-color-000: var(
+    --token-aeber57MIOfr
+  );
+  --token-3JLr_5OUIE6t: var(--token-AFCJ0laTLrEd);
+  --plasmic-token-17-sds-system-base-border-color-100: var(
+    --token-3JLr_5OUIE6t
+  );
+  --token-hbJxYZYHRLot: var(--token-0PKXNXwRL2I9);
+  --plasmic-token-17-sds-system-semantic-border-base-base: var(
+    --token-hbJxYZYHRLot
+  );
+  --token-HZUb2NUc81xu: var(--token-aeber57MIOfr);
+  --plasmic-token-17-sds-system-semantic-border-base-clear: var(
+    --token-HZUb2NUc81xu
+  );
+  --token-yd9e-YKf429M: var(--token-3JLr_5OUIE6t);
+  --plasmic-token-17-sds-system-semantic-border-base-subtle: var(
+    --token-yd9e-YKf429M
+  );
+  --token-_nUjJVFSxWIk: var(--token-AQpDzJPUtdkr);
+  --plasmic-token-17-sds-system-semantic-border-base-strong: var(
+    --token-_nUjJVFSxWIk
+  );
+  --token-hYQ9_swbd4n3: var(--token-AHJATMvbZY-W);
+  --plasmic-token-17-sds-system-base-font-line-height-300: var(
+    --token-hYQ9_swbd4n3
+  );
+  --token-7V8CdP8uRcB8: var(--token-oOo-TW1RMsyp);
+  --plasmic-token-17-sds-system-base-font-line-height-400: var(
+    --token-7V8CdP8uRcB8
+  );
+  --token-_LzCWi9B0Iko: 1.4;
+  --plasmic-token-17-sds-system-base-font-line-height-500: var(
+    --token-_LzCWi9B0Iko
+  );
+  --token-_LtbYUV3TYkv: var(--token-hYQ9_swbd4n3);
+  --plasmic-token-17-sds-system-semantic-font-line-height-component-base: var(
+    --token-_LtbYUV3TYkv
+  );
+  --token-j1rimEqvHA_q: var(--token-7V8CdP8uRcB8);
+  --plasmic-token-17-sds-system-semantic-font-line-height-component-lg: var(
+    --token-j1rimEqvHA_q
+  );
+  --token-HiRVSC0h77q-: var(--token-XJqtY0GqThWU);
+  --plasmic-token-17-sds-system-semantic-font-line-height-component-sm: var(
+    --token-HiRVSC0h77q-
+  );
+  --token-8BWTeW1PeeIo: var(--token-_LzCWi9B0Iko);
+  --plasmic-token-17-sds-system-semantic-font-line-height-component-xl: var(
+    --token-8BWTeW1PeeIo
+  );
+  --token-JS09_BwFbUFH: var(--token-1fU53D5PEO5_);
+  --plasmic-token-17-sds-system-semantic-font-line-height-component-xs: var(
+    --token-JS09_BwFbUFH
+  );
+  --token-qaHDAGajoc-V: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-row-base: var(
+    --token-qaHDAGajoc-V
+  );
+  --token-e-qZ0SW1unpj: var(--token-_a6hncEPTgbW);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-column-base: var(
+    --token-e-qZ0SW1unpj
+  );
+  --token-_a6hncEPTgbW: var(--token-coulfmoNPufH);
+  --plasmic-token-17-sds-system-semantic-spacer-gutter-base: var(
+    --token-_a6hncEPTgbW
+  );
+  --token-Sf9YFb971qha: var(--token-e-qZ0SW1unpj);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-base: var(
+    --token-Sf9YFb971qha
+  );
+  --token-hMTk52FaWdoM: var(--token-e-qZ0SW1unpj);
+  --plasmic-token-17-sds-system-semantic-layout-flex-base-column-gap: var(
+    --token-hMTk52FaWdoM
+  );
+  --token-VRIp0Ndzf0UJ: var(--token-e-qZ0SW1unpj);
+  --plasmic-token-17-sds-system-semantic-layout-flex-base-row-gap: var(
+    --token-VRIp0Ndzf0UJ
+  );
+  --token-A41QKiXP00TB: var(--token-qaHDAGajoc-V);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-base: var(
+    --token-A41QKiXP00TB
+  );
+  --token-kJ49DSpqO5tA: var(--token-cXUdpluV2ocG);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-xs: var(
+    --token-kJ49DSpqO5tA
+  );
+  --token-Gl4nhWO9AY05: var(--token-mZv7Y9lIEaYC);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-sm: var(
+    --token-Gl4nhWO9AY05
+  );
+  --token-REl6-oiMkGMC: var(--token-coulfmoNPufH);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-md: var(
+    --token-REl6-oiMkGMC
+  );
+  --token-qW9Qhx-2buKp: var(--token-K72AYDYsYBi8);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-lg: var(
+    --token-qW9Qhx-2buKp
+  );
+  --token-bDHHewMGf2Ct: var(--token-mOS7eJLEHsAU);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-xl: var(
+    --token-bDHHewMGf2Ct
+  );
+  --token-XEbqGQcKqfTm: var(--token-oEonbNytLOMX);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-2-xl: var(
+    --token-XEbqGQcKqfTm
+  );
+  --token-c3wL1N_z3DUA: var(--token-cOMR8HuSdxPT);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-3-xl: var(
+    --token-c3wL1N_z3DUA
+  );
+  --token-PAasirat-b8m: var(--token-ZgnCpS9MBGoo);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-4-xl: var(
+    --token-PAasirat-b8m
+  );
+  --token-J_PTe8o1D_Ir: var(--token-YcRWr_uElmW1);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-none: var(
+    --token-J_PTe8o1D_Ir
+  );
+  --token-MUekIKe1urIo: var(--token-J_PTe8o1D_Ir);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-none: var(
+    --token-MUekIKe1urIo
+  );
+  --token-6GTJ2oIsy54O: var(--token-J_PTe8o1D_Ir);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-none: var(
+    --token-6GTJ2oIsy54O
+  );
+  --token-gHkQawW4bxe1: var(--token-kJ49DSpqO5tA);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-xs: var(
+    --token-gHkQawW4bxe1
+  );
+  --token-lVExc0X87z0v: var(--token-Gl4nhWO9AY05);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-sm: var(
+    --token-lVExc0X87z0v
+  );
+  --token-o6nwahSL3Y_-: var(--token-Gl4nhWO9AY05);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-md: var(
+    --token-o6nwahSL3Y_-
+  );
+  --token-w94_oiLM38Ka: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-lg: var(
+    --token-w94_oiLM38Ka
+  );
+  --token-jeNIpgjsZpnB: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-lg: var(
+    --token-jeNIpgjsZpnB
+  );
+  --token--NA_QF7sbQDn: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-md: var(
+    --token--NA_QF7sbQDn
+  );
+  --token-oyXVUCQDLUBk: var(--token-Gl4nhWO9AY05);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-sm: var(
+    --token-oyXVUCQDLUBk
+  );
+  --token-fPOTM31B3KJs: var(--token-kJ49DSpqO5tA);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-xs: var(
+    --token-fPOTM31B3KJs
+  );
+  --token-qGYKbzB2Ar8R: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-xl: var(
+    --token-qGYKbzB2Ar8R
+  );
+  --token-LCBBROAiDxEn: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-2-xl: var(
+    --token-LCBBROAiDxEn
+  );
+  --token-TTXen5uEbvPG: var(--token-qW9Qhx-2buKp);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-3-xl: var(
+    --token-TTXen5uEbvPG
+  );
+  --token-Y04y-s4FGyME: var(--token-bDHHewMGf2Ct);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-4-xl: var(
+    --token-Y04y-s4FGyME
+  );
+  --token-MFAXA4kdfqez: var(--token-bDHHewMGf2Ct);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-xl: var(
+    --token-MFAXA4kdfqez
+  );
+  --token-6TtmXu8wjYm3: var(--token-XEbqGQcKqfTm);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-2-xl: var(
+    --token-6TtmXu8wjYm3
+  );
+  --token-hYaI1el-4oCr: var(--token-c3wL1N_z3DUA);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-3-xl: var(
+    --token-hYaI1el-4oCr
+  );
+  --token-9lyhyTGRCkhi: var(--token-PAasirat-b8m);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-4-xl: var(
+    --token-9lyhyTGRCkhi
+  );
+  --token-qV0IJdU4J327: var(--token-KaPc7LWHkyvB);
+  --plasmic-token-17-sds-system-base-spacer-600: var(--token-qV0IJdU4J327);
+  --token-SyUmsoKw0a25: var(--token-VxqmLFWKBqdy);
+  --plasmic-token-17-sds-system-base-spacer-500: var(--token-SyUmsoKw0a25);
+  --token-sg3QSFvRh1py: var(--token-blrlacR0s31i);
+  --plasmic-token-17-sds-system-base-spacer-200: var(--token-sg3QSFvRh1py);
+  --token-1xj0T_trqrQe: var(--token-DSHWNSIqsNUt);
+  --plasmic-token-17-sds-system-semantic-spacer-base-2-xs: var(
+    --token-1xj0T_trqrQe
+  );
+  --token-onK3wX0jhKPJ: var(--token-zjrEWhKH8t6p);
+  --plasmic-token-17-sds-system-semantic-spacer-base-3-xs: var(
+    --token-onK3wX0jhKPJ
+  );
+  --token-4M1OcvwnQ9mP: var(--token-sg3QSFvRh1py);
+  --plasmic-token-17-sds-system-semantic-spacer-base-4-xs: var(
+    --token-4M1OcvwnQ9mP
+  );
+  --token-zxCF8rVoz2tB: var(--token-1xj0T_trqrQe);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-2-xs: var(
+    --token-zxCF8rVoz2tB
+  );
+  --token-WBe7ehN9QBFn: var(--token-onK3wX0jhKPJ);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-3-xs: var(
+    --token-WBe7ehN9QBFn
+  );
+  --token-T6q-HxMfkn1T: var(--token-4M1OcvwnQ9mP);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-4-xs: var(
+    --token-T6q-HxMfkn1T
+  );
+  --token-1Zb-kDs0T5HU: var(--token-1xj0T_trqrQe);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-2-xs: var(
+    --token-1Zb-kDs0T5HU
+  );
+  --token-Kxx3Is9a1esZ: var(--token-onK3wX0jhKPJ);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-3-xs: var(
+    --token-Kxx3Is9a1esZ
+  );
+  --token-rKwUIi6D2VIy: var(--token-4M1OcvwnQ9mP);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-4-xs: var(
+    --token-rKwUIi6D2VIy
+  );
+  --token-AgtCIVkApoLQ: var(--token-1xj0T_trqrQe);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-2-xs: var(
+    --token-AgtCIVkApoLQ
+  );
+  --token-rdOofGVxY-Aq: var(--token-onK3wX0jhKPJ);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-3-xs: var(
+    --token-rdOofGVxY-Aq
+  );
+  --token-f6m6wSCkmp70: var(--token-4M1OcvwnQ9mP);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-4-xs: var(
+    --token-f6m6wSCkmp70
+  );
+  --token-UH7EX6NNXbk8: var(--token-CBJ9p8ySueGW);
+  --plasmic-token-17-sds-system-base-outline-width-100: var(
+    --token-UH7EX6NNXbk8
+  );
+  --token-OB638Vu3TVEA: var(--token-4DZfuHudET-h);
+  --plasmic-token-17-sds-system-base-outline-width-200: var(
+    --token-OB638Vu3TVEA
+  );
+  --token-ZrUu7SEM7mXQ: var(--token-376lLb_hUdxO);
+  --plasmic-token-17-sds-system-base-outline-width-300: var(
+    --token-ZrUu7SEM7mXQ
+  );
+  --token-iZWOgAXJHYFJ: var(--token-CBJ9p8ySueGW);
+  --plasmic-token-17-sds-system-base-outline-offset-100: var(
+    --token-iZWOgAXJHYFJ
+  );
+  --token-H2TJBxv6qwM8: var(--token-4DZfuHudET-h);
+  --plasmic-token-17-sds-system-base-outline-offset-200: var(
+    --token-H2TJBxv6qwM8
+  );
+  --token-arh8fYZ4uoYu: var(--token-376lLb_hUdxO);
+  --plasmic-token-17-sds-system-base-outline-offset-300: var(
+    --token-arh8fYZ4uoYu
+  );
+  --token-PfMqa2N_di3_: var(--token-OB638Vu3TVEA);
+  --plasmic-token-17-sds-system-semantic-outline-width-md: var(
+    --token-PfMqa2N_di3_
+  );
+  --token-mmFEuCYxIVFt: var(--token-UH7EX6NNXbk8);
+  --plasmic-token-17-sds-system-semantic-outline-width-sm: var(
+    --token-mmFEuCYxIVFt
+  );
+  --token-OnVt-tI53ueJ: var(--token-ZrUu7SEM7mXQ);
+  --plasmic-token-17-sds-system-semantic-outline-width-lg: var(
+    --token-OnVt-tI53ueJ
+  );
+  --token-pNwsDvdPQIad: var(--token-arh8fYZ4uoYu);
+  --plasmic-token-17-sds-system-semantic-outline-offset-lg: var(
+    --token-pNwsDvdPQIad
+  );
+  --token-Wuz7BeGxqaJA: var(--token-H2TJBxv6qwM8);
+  --plasmic-token-17-sds-system-semantic-outline-offset-md: var(
+    --token-Wuz7BeGxqaJA
+  );
+  --token-z_5RrY1OHG9Z: var(--token-iZWOgAXJHYFJ);
+  --plasmic-token-17-sds-system-semantic-outline-offset-sm: var(
+    --token-z_5RrY1OHG9Z
+  );
+  --token-ExgOrd_YZk8M: var(--token-ZPQbYvQd_5nZ);
+  --plasmic-token-17-sds-system-semantic-interaction-color-disabled: var(
+    --token-ExgOrd_YZk8M
+  );
+  --token-QS_IYJINZmXb: var(--token-MqaWGEMsspw9);
+  --plasmic-token-17-sds-system-semantic-color-status-custom-main: var(
+    --token-QS_IYJINZmXb
+  );
+  --token-Ud1pTWm-tDJi: var(--token-tf3fWmujAZhk);
+  --plasmic-token-17-sds-system-semantic-color-status-custom-soft: var(
+    --token-Ud1pTWm-tDJi
+  );
+  --token-qrobYg03XHci: var(--token-kcN9hp4D8txr);
+  --plasmic-token-17-sds-system-semantic-color-status-info-base: var(
+    --token-qrobYg03XHci
+  );
+  --token-ExedOJnJLzRH: var(--token-2wPhwubnAJYe);
+  --plasmic-token-17-sds-system-semantic-color-status-info-soft: var(
+    --token-ExedOJnJLzRH
+  );
+  --token-2VsLaS2dnE92: var(--token-50vfLU6wGcWl);
+  --plasmic-token-17-sds-system-semantic-color-status-negative-soft: var(
+    --token-2VsLaS2dnE92
+  );
+  --token-BX2rXVDG8RsH: var(--token-mVP4IPgInJ6E);
+  --plasmic-token-17-sds-system-semantic-color-status-notice-soft: var(
+    --token-BX2rXVDG8RsH
+  );
+  --token-H_Ia1j7sqx-x: var(--token-CnK0AGamHDaj);
+  --plasmic-token-17-sds-system-semantic-color-status-negative-base: var(
+    --token-H_Ia1j7sqx-x
+  );
+  --token-VCQH3-nNICMD: var(--token-hsFY5mxgTsnU);
+  --plasmic-token-17-sds-system-semantic-color-status-notice-base: var(
+    --token-VCQH3-nNICMD
+  );
+  --token-s-DSJFmhwM5u: var(--token-5T4g51PSNhn4);
+  --plasmic-token-17-sds-system-semantic-color-status-positive-strong: var(
+    --token-s-DSJFmhwM5u
+  );
+  --token-5FwrRmmSX52_: var(--token-ZKXICnIG27Xb);
+  --plasmic-token-17-sds-system-semantic-color-status-positive-base: var(
+    --token-5FwrRmmSX52_
+  );
+  --token-ADwnlh8TRVEd: var(--token-sMC9el_QSN0T);
+  --plasmic-token-17-sds-system-semantic-color-status-custom-softer: var(
+    --token-ADwnlh8TRVEd
+  );
+  --token-WQKQHGU4Ozod: var(--token-I2i8krUsk7dk);
+  --plasmic-token-17-sds-system-semantic-color-status-info-softer: var(
+    --token-WQKQHGU4Ozod
+  );
+  --token-kJiFVbPb4Vuv: var(--token-TIUFARO1AVVm);
+  --plasmic-token-17-sds-system-semantic-color-status-negative-softest: var(
+    --token-kJiFVbPb4Vuv
+  );
+  --token-RKDuvr2DoNwp: var(--token-aEvluA44jdHg);
+  --plasmic-token-17-sds-system-semantic-color-status-notice-softer: var(
+    --token-RKDuvr2DoNwp
+  );
+  --token-D0xFM5xHQUsb: var(--token-YgHgbo4lcxZ-);
+  --plasmic-token-17-sds-system-semantic-color-status-positive-softer: var(
+    --token-D0xFM5xHQUsb
+  );
+  --token-jf1RwskRAnWy: var(--token-zO9WZNlbKj_W);
+  --plasmic-token-17-sds-system-semantic-text-color-on-color-base-base: var(
+    --token-jf1RwskRAnWy
+  );
+  --token-Qbx3Z0vNK_Po: var(--token-Ud1pTWm-tDJi);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-soft-custom: var(
+    --token-Qbx3Z0vNK_Po
+  );
+  --token-AQhJd_P0U04w: var(--token-ExedOJnJLzRH);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-soft-info: var(
+    --token-AQhJd_P0U04w
+  );
+  --token-SG-DW2Vo3R42: var(--token-2VsLaS2dnE92);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-soft-negative: var(
+    --token-SG-DW2Vo3R42
+  );
+  --token-uAptU_OAKF6s: var(--token-BX2rXVDG8RsH);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-soft-notice: var(
+    --token-uAptU_OAKF6s
+  );
+  --token-QGZh1_sqsyaq: var(--token-rzQEo4xmSiqs);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-status-soft-positive: var(
+    --token-QGZh1_sqsyaq
+  );
+  --token-rzQEo4xmSiqs: var(--token-5Qk4iDvh_s8J);
+  --plasmic-token-17-sds-system-semantic-color-status-positive-soft: var(
+    --token-rzQEo4xmSiqs
+  );
+  --token-ESROb8JqT0_3: var(--token-nlu4OfAe565s);
+  --plasmic-token-17-sds-system-semantic-outline-status-info: var(
+    --token-ESROb8JqT0_3
+  );
+  --token-NxQYG0ZKHgm5: var(--token-0l0XqViBeyXn);
+  --plasmic-token-17-sds-system-semantic-outline-status-positive: var(
+    --token-NxQYG0ZKHgm5
+  );
+  --token-5aCH4CPPGxCs: var(--token-XXkRuC-kWjhC);
+  --plasmic-token-17-sds-system-semantic-outline-status-negative: var(
+    --token-5aCH4CPPGxCs
+  );
+  --token-elgC1txD7Hqd: var(--token-lpMlGaXS6KFf);
+  --plasmic-token-17-sds-system-semantic-outline-status-notice: var(
+    --token-elgC1txD7Hqd
+  );
+  --token-yD4TXnnufvpk: var(--token-SWmEpKal7bBX);
+  --plasmic-token-17-sds-system-semantic-outline-status-custom: var(
+    --token-yD4TXnnufvpk
+  );
+  --token-OXG_Hv9XGCd-: var(--token-_Jl_nMnQgvTO);
+  --plasmic-token-17-sds-system-semantic-background-color-base-soft: var(
+    --token-OXG_Hv9XGCd-
+  );
+  --token-uDMCWql-Lysb: var(--token-jv1Ir1IauwRC);
+  --plasmic-token-17-sds-system-semantic-background-color-base-softer: var(
+    --token-uDMCWql-Lysb
+  );
+  --token-ujiaN0jIk287: var(--token-kR2kpsLDHpV3);
+  --plasmic-token-17-sds-system-semantic-background-color-base-strong: var(
+    --token-ujiaN0jIk287
+  );
+  --token-QAE1h5Lo9cFs: var(--token-Q0Nw4m-0se8s);
+  --plasmic-token-17-sds-system-semantic-background-color-base-stronger: var(
+    --token-QAE1h5Lo9cFs
+  );
+  --token-oAtR9e59Ntfi: var(--token-Knn8F0I3Fzq0);
+  --plasmic-token-17-sds-system-base-box-shadow-color-300: var(
+    --token-oAtR9e59Ntfi
+  );
+  --token--k1mepnAumiR: var(--token-1uT3IIrbdlxr);
+  --plasmic-token-17-sds-system-base-box-shadow-color-400: var(
+    --token--k1mepnAumiR
+  );
+  --token-LimUOK_KCKty: var(--token-8clHvPiGiNoE);
+  --plasmic-token-17-sds-system-base-spacer-100: var(--token-LimUOK_KCKty);
+  --token-c7hJRTJX4iAh: var(--token-pT3Kf0xKbIDc);
+  --plasmic-token-17-sds-system-semantic-layout-flex-spacer-base-5-xs: var(
+    --token-c7hJRTJX4iAh
+  );
+  --token-pT3Kf0xKbIDc: var(--token-LimUOK_KCKty);
+  --plasmic-token-17-sds-system-semantic-spacer-base-5-xs: var(
+    --token-pT3Kf0xKbIDc
+  );
+  --token-XAiE8dch_kqr: var(--token-pT3Kf0xKbIDc);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-row-gap-5-xs: var(
+    --token-XAiE8dch_kqr
+  );
+  --token-M7JMtL1a2S1H: var(--token-pT3Kf0xKbIDc);
+  --plasmic-token-17-sds-system-semantic-layout-flex-gap-column-gap-5-xs: var(
+    --token-M7JMtL1a2S1H
+  );
+  --token-BBP-Qfsb1_Zu: var(--token-1mGmTW3YodO9);
+  --plasmic-token-17-sds-system-semantic-text-color-base-deep: var(
+    --token-BBP-Qfsb1_Zu
+  );
+  --token-kkvriLVVd8Df: var(--token-U3yyBuZnTQ8J);
+  --plasmic-token-17-sds-system-base-text-color-base-500: var(
+    --token-kkvriLVVd8Df
+  );
+  --token-unSuatcXrgwD: var(--token-1ZJ-uw-902rP);
+  --plasmic-token-17-sds-system-semantic-background-color-component-base-fill-color-base-deep: var(
+    --token-unSuatcXrgwD
+  );
+  --token-Tx9C73mOhOJU: var(--token-vhZ8sDCtgIRq);
+  --plasmic-token-17-sds-system-semantic-spacer-base-none: var(
+    --token-Tx9C73mOhOJU
+  );
+  --token-vhZ8sDCtgIRq: var(--token-YcRWr_uElmW1);
+  --plasmic-token-17-sds-system-base-spacer-000: var(--token-vhZ8sDCtgIRq);
+  --token-JBUdRi8PyyWi: var(--token-hp2rdjPLreS_);
+  --plasmic-token-17-sds-system-base-text-color-base-300: var(
+    --token-JBUdRi8PyyWi
+  );
+  --token-2AwtbA81fMnm: var(--token-JBUdRi8PyyWi);
+  --plasmic-token-17-sds-system-semantic-text-color-base-alt: var(
+    --token-2AwtbA81fMnm
+  );
+  --token-50afh9KHRnOQ: var(--token-C55EMsbocuaS);
+  --plasmic-token-17-sds-system-base-icon-color-base-200: var(
+    --token-50afh9KHRnOQ
+  );
+  --token-PkPvuMQH6LEY: var(--token-F2j0Fb6y5GQ3);
+  --plasmic-token-17-sds-system-base-icon-color-base-500: var(
+    --token-PkPvuMQH6LEY
+  );
+  --token-lC2_rTxtXuYD: var(--token-PkPvuMQH6LEY);
+  --plasmic-token-17-sds-system-semantic-icon-color-base-deep: var(
+    --token-lC2_rTxtXuYD
+  );
+}
+
+@media (min-width: 0px) and (max-width: 480px) {
+  .plasmic_tokens {
+    --token-3S9CCIWkY087: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-100: var(--token-3S9CCIWkY087);
+    --token-kXPbwllhZsem: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-200: var(--token-kXPbwllhZsem);
+    --token-SazLTkxG93M_: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-300: var(--token-SazLTkxG93M_);
+    --token-S1Uot29W7yaP: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-400: var(--token-S1Uot29W7yaP);
+    --token-ypNC8D7WqcRY: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-500: var(--token-ypNC8D7WqcRY);
+    --token-84Pt0QOrWnbu: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-600: var(--token-84Pt0QOrWnbu);
+    --token-CpBTFOp-sev_: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-700: var(--token-CpBTFOp-sev_);
+    --token-3UoaLFH-04Mi: 0.75rem;
+    --plasmic-token-17-sds-system-base-font-size-800: var(--token-3UoaLFH-04Mi);
+  }
+}
+
+.plasmic_tokens {
+  --plsmc-standard-width: 800px;
+  --plsmc-wide-width: 1280px;
+  --plsmc-viewport-gap: 16px;
+  --plsmc-wide-chunk: calc(
+    ((var(--plsmc-wide-width) - var(--plsmc-standard-width)) / 2) -
+      var(--plsmc-viewport-gap)
+  );
+}
+
+.plasmic_default_styles {
+  --mixin-BVTJzQfB1fNE_font-family: var(--token-d-75LX9qLhFO);
+  --mixin-BVTJzQfB1fNE_font-weight: 400;
+  --mixin-BVTJzQfB1fNE_font-style: normal;
+  --mixin-BVTJzQfB1fNE_color: var(--token-Zc9kz-c9SWOD);
+  --mixin-BVTJzQfB1fNE_text-align: left;
+  --mixin-BVTJzQfB1fNE_text-transform: none;
+  --mixin-BVTJzQfB1fNE_letter-spacing: normal;
+  --mixin-BVTJzQfB1fNE_white-space: pre-wrap;
+  --mixin-BVTJzQfB1fNE_user-select: text;
+  --mixin-BVTJzQfB1fNE_text-decoration-line: none;
+  --mixin-BVTJzQfB1fNE_text-overflow: clip;
+  --mixin-BVTJzQfB1fNE_font-size: var(--token-UCiCIP9lz9Hd);
+  --mixin-BVTJzQfB1fNE_line-height: var(--token-oOo-TW1RMsyp);
+  --mixin-vC-EbXlraB6U_color: var(--token-PSVU4knryfi8);
+  --mixin-vC-EbXlraB6U_font-weight: 400;
+  --mixin-vC-EbXlraB6U_font-size: var(--token-po-TqD1DFQiH);
+  --mixin-vC-EbXlraB6U_line-height: var(--token-unDNf8wZ4fw1);
+  --mixin-vC-EbXlraB6U_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-vC-EbXlraB6U_white-space: pre-wrap;
+  --mixin-Qivk_7riKCkL_color: var(--token-PSVU4knryfi8);
+  --mixin-Qivk_7riKCkL_font-size: var(--token-Q2X4JhBy_hV8);
+  --mixin-Qivk_7riKCkL_font-weight: 400;
+  --mixin-Qivk_7riKCkL_line-height: var(--token-oOo-TW1RMsyp);
+  --mixin-Qivk_7riKCkL_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-Qivk_7riKCkL_white-space: pre-wrap;
+  --mixin--Gbt1VnKnEKV_color: #0070f3;
+  --mixin--Gbt1VnKnEKV_white-space: pre-wrap;
+  --mixin-iq6dN9mi0xnz_color: var(--token-PSVU4knryfi8);
+  --mixin-iq6dN9mi0xnz_font-size: var(--token-4hF_LwIOL-pD);
+  --mixin-iq6dN9mi0xnz_font-weight: 400;
+  --mixin-iq6dN9mi0xnz_line-height: var(--token-AHJATMvbZY-W);
+  --mixin-iq6dN9mi0xnz_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-iq6dN9mi0xnz_white-space: pre-wrap;
+  --mixin-B0jlYekaTeMl_color: var(--token-PSVU4knryfi8);
+  --mixin-B0jlYekaTeMl_font-size: var(--token-3UVv2Xd301jz);
+  --mixin-B0jlYekaTeMl_font-weight: 400;
+  --mixin-B0jlYekaTeMl_line-height: var(--token-unDNf8wZ4fw1);
+  --mixin-B0jlYekaTeMl_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-B0jlYekaTeMl_white-space: pre-wrap;
+  --mixin-PAYKldjFL6ON_background: linear-gradient(#f8f8f8, #f8f8f8);
+  --mixin-PAYKldjFL6ON_border-bottom-color: #dddddd;
+  --mixin-PAYKldjFL6ON_border-bottom-style: solid;
+  --mixin-PAYKldjFL6ON_border-bottom-width: 1px;
+  --mixin-PAYKldjFL6ON_border-left-color: #dddddd;
+  --mixin-PAYKldjFL6ON_border-left-style: solid;
+  --mixin-PAYKldjFL6ON_border-left-width: 1px;
+  --mixin-PAYKldjFL6ON_border-right-color: #dddddd;
+  --mixin-PAYKldjFL6ON_border-right-style: solid;
+  --mixin-PAYKldjFL6ON_border-right-width: 1px;
+  --mixin-PAYKldjFL6ON_border-top-color: #dddddd;
+  --mixin-PAYKldjFL6ON_border-top-style: solid;
+  --mixin-PAYKldjFL6ON_border-top-width: 1px;
+  --mixin-PAYKldjFL6ON_border-bottom-left-radius: 3px;
+  --mixin-PAYKldjFL6ON_border-bottom-right-radius: 3px;
+  --mixin-PAYKldjFL6ON_border-top-left-radius: 3px;
+  --mixin-PAYKldjFL6ON_border-top-right-radius: 3px;
+  --mixin-PAYKldjFL6ON_font-family: "Inconsolata";
+  --mixin-PAYKldjFL6ON_padding-bottom: 1px;
+  --mixin-PAYKldjFL6ON_padding-left: 4px;
+  --mixin-PAYKldjFL6ON_padding-right: 4px;
+  --mixin-PAYKldjFL6ON_padding-top: 1px;
+  --mixin-PAYKldjFL6ON_font-size: var(--token-E-XpXqdEPBpB);
+  --mixin-PAYKldjFL6ON_white-space: pre-wrap;
+  --mixin-H2RSG8O4zfOq_border-left-color: #dddddd;
+  --mixin-H2RSG8O4zfOq_border-left-style: solid;
+  --mixin-H2RSG8O4zfOq_border-left-width: 3px;
+  --mixin-H2RSG8O4zfOq_color: #888888;
+  --mixin-H2RSG8O4zfOq_padding-left: 10px;
+  --mixin-H2RSG8O4zfOq_white-space: pre-wrap;
+  --mixin-iIGjt0KR0jGm_background: linear-gradient(#f8f8f8, #f8f8f8);
+  --mixin-iIGjt0KR0jGm_border-bottom-color: #dddddd;
+  --mixin-iIGjt0KR0jGm_border-bottom-style: solid;
+  --mixin-iIGjt0KR0jGm_border-bottom-width: 1px;
+  --mixin-iIGjt0KR0jGm_border-left-color: #dddddd;
+  --mixin-iIGjt0KR0jGm_border-left-style: solid;
+  --mixin-iIGjt0KR0jGm_border-left-width: 1px;
+  --mixin-iIGjt0KR0jGm_border-right-color: #dddddd;
+  --mixin-iIGjt0KR0jGm_border-right-style: solid;
+  --mixin-iIGjt0KR0jGm_border-right-width: 1px;
+  --mixin-iIGjt0KR0jGm_border-top-color: #dddddd;
+  --mixin-iIGjt0KR0jGm_border-top-style: solid;
+  --mixin-iIGjt0KR0jGm_border-top-width: 1px;
+  --mixin-iIGjt0KR0jGm_border-bottom-left-radius: 3px;
+  --mixin-iIGjt0KR0jGm_border-bottom-right-radius: 3px;
+  --mixin-iIGjt0KR0jGm_border-top-left-radius: 3px;
+  --mixin-iIGjt0KR0jGm_border-top-right-radius: 3px;
+  --mixin-iIGjt0KR0jGm_font-family: "Inconsolata";
+  --mixin-iIGjt0KR0jGm_padding-bottom: 3px;
+  --mixin-iIGjt0KR0jGm_padding-left: 6px;
+  --mixin-iIGjt0KR0jGm_padding-right: 6px;
+  --mixin-iIGjt0KR0jGm_padding-top: 3px;
+  --mixin-iIGjt0KR0jGm_white-space: pre-wrap;
+  --mixin-lY807SoP4FZc_display: flex;
+  --mixin-lY807SoP4FZc_flex-direction: column;
+  --mixin-lY807SoP4FZc_align-items: stretch;
+  --mixin-lY807SoP4FZc_justify-content: flex-start;
+  --mixin-lY807SoP4FZc_list-style-position: outside;
+  --mixin-lY807SoP4FZc_padding-left: 40px;
+  --mixin-lY807SoP4FZc_position: relative;
+  --mixin-lY807SoP4FZc_list-style-type: disc;
+  --mixin-lY807SoP4FZc_white-space: pre-wrap;
+  --mixin--kSwyDFqEk71_display: flex;
+  --mixin--kSwyDFqEk71_flex-direction: column;
+  --mixin--kSwyDFqEk71_align-items: stretch;
+  --mixin--kSwyDFqEk71_justify-content: flex-start;
+  --mixin--kSwyDFqEk71_list-style-position: outside;
+  --mixin--kSwyDFqEk71_padding-left: 40px;
+  --mixin--kSwyDFqEk71_position: relative;
+  --mixin--kSwyDFqEk71_list-style-type: decimal;
+  --mixin--kSwyDFqEk71_white-space: pre-wrap;
+  --mixin-wJlqcNlII0ir_color: var(--token-PSVU4knryfi8);
+  --mixin-wJlqcNlII0ir_font-size: var(--token-ltq-z202MuyM);
+  --mixin-wJlqcNlII0ir_font-weight: 400;
+  --mixin-wJlqcNlII0ir_line-height: var(--token-oOo-TW1RMsyp);
+  --mixin-wJlqcNlII0ir_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-wJlqcNlII0ir_white-space: pre-wrap;
+  --mixin-gfPHLvoJ_jzX_color: var(--token-PSVU4knryfi8);
+  --mixin-gfPHLvoJ_jzX_font-size: var(--token-BE-7FyfyhPHp);
+  --mixin-gfPHLvoJ_jzX_font-weight: 400;
+  --mixin-gfPHLvoJ_jzX_line-height: var(--token-AHJATMvbZY-W);
+  --mixin-gfPHLvoJ_jzX_font-family: var(--token-kWV46FPwo1D2);
+  --mixin-gfPHLvoJ_jzX_white-space: pre-wrap;
+  --mixin-gKXGeSBEWwzj_color: #3291ff;
+  --mixin-gKXGeSBEWwzj_white-space: pre-wrap;
+  --mixin-OY992TdMq2aI_white-space: pre-wrap;
+  --mixin-x1S-JSHl6-ji_white-space: pre-wrap;
+}
+
+:where(.all) {
+  display: block;
+  white-space: inherit;
+  grid-row: auto;
+  grid-column: auto;
+  position: relative;
+  background: none;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  box-shadow: none;
+  box-sizing: border-box;
+  text-decoration-line: none;
+  margin: 0;
+  border-width: 0px;
+}
+:where(.__wab_expr_html_text *) {
+  white-space: inherit;
+  grid-row: auto;
+  grid-column: auto;
+  background: none;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  box-shadow: none;
+  box-sizing: border-box;
+  margin: 0;
+  border-width: 0px;
+}
+
+:where(.img) {
+  display: inline-block;
+}
+:where(.__wab_expr_html_text img) {
+  white-space: inherit;
+}
+
+:where(.li) {
+  display: list-item;
+}
+:where(.__wab_expr_html_text li) {
+  white-space: inherit;
+}
+
+:where(.span) {
+  display: inline;
+  position: static;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+:where(.__wab_expr_html_text span) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+
+:where(.input) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: linear-gradient(#ffffff, #ffffff);
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+:where(.__wab_expr_html_text input) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: linear-gradient(#ffffff, #ffffff);
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+
+:where(.textarea) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+:where(.__wab_expr_html_text textarea) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  padding: 2px;
+  border: 1px solid lightgray;
+}
+
+:where(.button) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: none;
+  align-items: flex-start;
+  text-align: center;
+  padding: 2px 6px;
+  border: 1px solid lightgray;
+}
+:where(.__wab_expr_html_text button) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+  background-image: none;
+  align-items: flex-start;
+  text-align: center;
+  padding: 2px 6px;
+  border: 1px solid lightgray;
+}
+
+:where(.code) {
+  font-family: inherit;
+  line-height: inherit;
+}
+:where(.__wab_expr_html_text code) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+}
+
+:where(.pre) {
+  font-family: inherit;
+  line-height: inherit;
+}
+:where(.__wab_expr_html_text pre) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+}
+
+:where(.p) {
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+:where(.__wab_expr_html_text p) {
+  white-space: inherit;
+  font-family: inherit;
+  line-height: inherit;
+  font-size: inherit;
+  font-style: inherit;
+  font-weight: inherit;
+  color: inherit;
+  text-transform: inherit;
+}
+
+:where(.h1) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h1) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.h2) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h2) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.h3) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h3) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.h4) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h4) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.h5) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h5) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.h6) {
+  font-size: inherit;
+  font-weight: inherit;
+}
+:where(.__wab_expr_html_text h6) {
+  white-space: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+
+:where(.address) {
+  font-style: inherit;
+}
+:where(.__wab_expr_html_text address) {
+  white-space: inherit;
+  font-style: inherit;
+}
+
+:where(.a) {
+  color: inherit;
+}
+:where(.__wab_expr_html_text a) {
+  white-space: inherit;
+  color: inherit;
+}
+
+:where(.ol) {
+  list-style-type: none;
+  padding: 0;
+}
+:where(.__wab_expr_html_text ol) {
+  white-space: inherit;
+  list-style-type: none;
+  padding: 0;
+}
+
+:where(.ul) {
+  list-style-type: none;
+  padding: 0;
+}
+:where(.__wab_expr_html_text ul) {
+  white-space: inherit;
+  list-style-type: none;
+  padding: 0;
+}
+
+:where(.select) {
+  padding: 2px 6px;
+}
+:where(.__wab_expr_html_text select) {
+  white-space: inherit;
+  padding: 2px 6px;
+}
+
+.plasmic_default__component_wrapper {
+  display: grid;
+}
+.plasmic_default__inline {
+  display: inline;
+}
+.plasmic_page_wrapper {
+  display: flex;
+  width: 100%;
+  min-height: 100vh;
+  align-items: stretch;
+  align-self: start;
+}
+.plasmic_page_wrapper > * {
+  height: auto !important;
+}
+.__wab_expr_html_text {
+  white-space: normal;
+}
+:where(.root_reset) {
+  font-family: var(--mixin-BVTJzQfB1fNE_font-family);
+  font-size: var(--mixin-BVTJzQfB1fNE_font-size);
+  font-weight: var(--mixin-BVTJzQfB1fNE_font-weight);
+  font-style: var(--mixin-BVTJzQfB1fNE_font-style);
+  color: var(--mixin-BVTJzQfB1fNE_color);
+  text-align: var(--mixin-BVTJzQfB1fNE_text-align);
+  text-transform: var(--mixin-BVTJzQfB1fNE_text-transform);
+  line-height: var(--mixin-BVTJzQfB1fNE_line-height);
+  letter-spacing: var(--mixin-BVTJzQfB1fNE_letter-spacing);
+  white-space: var(--mixin-BVTJzQfB1fNE_white-space);
+}
+
+:where(.root_reset) h1:where(.h1),
+h1:where(.root_reset.h1),
+:where(.root_reset .__wab_expr_html_text) h1,
+:where(.root_reset_tags) h1,
+h1:where(.root_reset_tags) {
+  color: var(--mixin-vC-EbXlraB6U_color);
+  font-weight: var(--mixin-vC-EbXlraB6U_font-weight);
+  font-size: var(--mixin-vC-EbXlraB6U_font-size);
+  line-height: var(--mixin-vC-EbXlraB6U_line-height);
+  font-family: var(--mixin-vC-EbXlraB6U_font-family);
+}
+
+:where(.root_reset) h2:where(.h2),
+h2:where(.root_reset.h2),
+:where(.root_reset .__wab_expr_html_text) h2,
+:where(.root_reset_tags) h2,
+h2:where(.root_reset_tags) {
+  color: var(--mixin-Qivk_7riKCkL_color);
+  font-size: var(--mixin-Qivk_7riKCkL_font-size);
+  font-weight: var(--mixin-Qivk_7riKCkL_font-weight);
+  line-height: var(--mixin-Qivk_7riKCkL_line-height);
+  font-family: var(--mixin-Qivk_7riKCkL_font-family);
+}
+
+:where(.root_reset) a:where(.a),
+a:where(.root_reset.a),
+:where(.root_reset .__wab_expr_html_text) a,
+:where(.root_reset_tags) a,
+a:where(.root_reset_tags) {
+  color: var(--mixin--Gbt1VnKnEKV_color);
+}
+
+:where(.root_reset) h3:where(.h3),
+h3:where(.root_reset.h3),
+:where(.root_reset .__wab_expr_html_text) h3,
+:where(.root_reset_tags) h3,
+h3:where(.root_reset_tags) {
+  color: var(--mixin-iq6dN9mi0xnz_color);
+  font-size: var(--mixin-iq6dN9mi0xnz_font-size);
+  font-weight: var(--mixin-iq6dN9mi0xnz_font-weight);
+  line-height: var(--mixin-iq6dN9mi0xnz_line-height);
+  font-family: var(--mixin-iq6dN9mi0xnz_font-family);
+}
+
+:where(.root_reset) h4:where(.h4),
+h4:where(.root_reset.h4),
+:where(.root_reset .__wab_expr_html_text) h4,
+:where(.root_reset_tags) h4,
+h4:where(.root_reset_tags) {
+  color: var(--mixin-B0jlYekaTeMl_color);
+  font-size: var(--mixin-B0jlYekaTeMl_font-size);
+  font-weight: var(--mixin-B0jlYekaTeMl_font-weight);
+  line-height: var(--mixin-B0jlYekaTeMl_line-height);
+  font-family: var(--mixin-B0jlYekaTeMl_font-family);
+}
+
+:where(.root_reset) code:where(.code),
+code:where(.root_reset.code),
+:where(.root_reset .__wab_expr_html_text) code,
+:where(.root_reset_tags) code,
+code:where(.root_reset_tags) {
+  background: #f8f8f8;
+  font-family: var(--mixin-PAYKldjFL6ON_font-family);
+  font-size: var(--mixin-PAYKldjFL6ON_font-size);
+  border-radius: var(--mixin-PAYKldjFL6ON_border-top-left-radius)
+    var(--mixin-PAYKldjFL6ON_border-top-right-radius)
+    var(--mixin-PAYKldjFL6ON_border-bottom-right-radius)
+    var(--mixin-PAYKldjFL6ON_border-bottom-left-radius);
+  padding: var(--mixin-PAYKldjFL6ON_padding-top)
+    var(--mixin-PAYKldjFL6ON_padding-right)
+    var(--mixin-PAYKldjFL6ON_padding-bottom)
+    var(--mixin-PAYKldjFL6ON_padding-left);
+  border-top: var(--mixin-PAYKldjFL6ON_border-top-width)
+    var(--mixin-PAYKldjFL6ON_border-top-style)
+    var(--mixin-PAYKldjFL6ON_border-top-color);
+  border-right: var(--mixin-PAYKldjFL6ON_border-right-width)
+    var(--mixin-PAYKldjFL6ON_border-right-style)
+    var(--mixin-PAYKldjFL6ON_border-right-color);
+  border-bottom: var(--mixin-PAYKldjFL6ON_border-bottom-width)
+    var(--mixin-PAYKldjFL6ON_border-bottom-style)
+    var(--mixin-PAYKldjFL6ON_border-bottom-color);
+  border-left: var(--mixin-PAYKldjFL6ON_border-left-width)
+    var(--mixin-PAYKldjFL6ON_border-left-style)
+    var(--mixin-PAYKldjFL6ON_border-left-color);
+}
+
+:where(.root_reset) blockquote:where(.blockquote),
+blockquote:where(.root_reset.blockquote),
+:where(.root_reset .__wab_expr_html_text) blockquote,
+:where(.root_reset_tags) blockquote,
+blockquote:where(.root_reset_tags) {
+  color: var(--mixin-H2RSG8O4zfOq_color);
+  padding-left: var(--mixin-H2RSG8O4zfOq_padding-left);
+  border-left: var(--mixin-H2RSG8O4zfOq_border-left-width)
+    var(--mixin-H2RSG8O4zfOq_border-left-style)
+    var(--mixin-H2RSG8O4zfOq_border-left-color);
+}
+
+:where(.root_reset) pre:where(.pre),
+pre:where(.root_reset.pre),
+:where(.root_reset .__wab_expr_html_text) pre,
+:where(.root_reset_tags) pre,
+pre:where(.root_reset_tags) {
+  background: #f8f8f8;
+  font-family: var(--mixin-iIGjt0KR0jGm_font-family);
+  border-radius: var(--mixin-iIGjt0KR0jGm_border-top-left-radius)
+    var(--mixin-iIGjt0KR0jGm_border-top-right-radius)
+    var(--mixin-iIGjt0KR0jGm_border-bottom-right-radius)
+    var(--mixin-iIGjt0KR0jGm_border-bottom-left-radius);
+  padding: var(--mixin-iIGjt0KR0jGm_padding-top)
+    var(--mixin-iIGjt0KR0jGm_padding-right)
+    var(--mixin-iIGjt0KR0jGm_padding-bottom)
+    var(--mixin-iIGjt0KR0jGm_padding-left);
+  border-top: var(--mixin-iIGjt0KR0jGm_border-top-width)
+    var(--mixin-iIGjt0KR0jGm_border-top-style)
+    var(--mixin-iIGjt0KR0jGm_border-top-color);
+  border-right: var(--mixin-iIGjt0KR0jGm_border-right-width)
+    var(--mixin-iIGjt0KR0jGm_border-right-style)
+    var(--mixin-iIGjt0KR0jGm_border-right-color);
+  border-bottom: var(--mixin-iIGjt0KR0jGm_border-bottom-width)
+    var(--mixin-iIGjt0KR0jGm_border-bottom-style)
+    var(--mixin-iIGjt0KR0jGm_border-bottom-color);
+  border-left: var(--mixin-iIGjt0KR0jGm_border-left-width)
+    var(--mixin-iIGjt0KR0jGm_border-left-style)
+    var(--mixin-iIGjt0KR0jGm_border-left-color);
+}
+
+:where(.root_reset) ul:where(.ul),
+ul:where(.root_reset.ul),
+:where(.root_reset .__wab_expr_html_text) ul,
+:where(.root_reset_tags) ul,
+ul:where(.root_reset_tags) {
+  display: var(--mixin-lY807SoP4FZc_display);
+  flex-direction: var(--mixin-lY807SoP4FZc_flex-direction);
+  align-items: var(--mixin-lY807SoP4FZc_align-items);
+  justify-content: var(--mixin-lY807SoP4FZc_justify-content);
+  list-style-position: var(--mixin-lY807SoP4FZc_list-style-position);
+  padding-left: var(--mixin-lY807SoP4FZc_padding-left);
+  position: var(--mixin-lY807SoP4FZc_position);
+  list-style-type: var(--mixin-lY807SoP4FZc_list-style-type);
+  flex-column-gap: var(--mixin-lY807SoP4FZc_flex-column-gap);
+}
+
+:where(.root_reset) ol:where(.ol),
+ol:where(.root_reset.ol),
+:where(.root_reset .__wab_expr_html_text) ol,
+:where(.root_reset_tags) ol,
+ol:where(.root_reset_tags) {
+  display: var(--mixin--kSwyDFqEk71_display);
+  flex-direction: var(--mixin--kSwyDFqEk71_flex-direction);
+  align-items: var(--mixin--kSwyDFqEk71_align-items);
+  justify-content: var(--mixin--kSwyDFqEk71_justify-content);
+  list-style-position: var(--mixin--kSwyDFqEk71_list-style-position);
+  padding-left: var(--mixin--kSwyDFqEk71_padding-left);
+  position: var(--mixin--kSwyDFqEk71_position);
+  list-style-type: var(--mixin--kSwyDFqEk71_list-style-type);
+  flex-column-gap: var(--mixin--kSwyDFqEk71_flex-column-gap);
+}
+
+:where(.root_reset) h5:where(.h5),
+h5:where(.root_reset.h5),
+:where(.root_reset .__wab_expr_html_text) h5,
+:where(.root_reset_tags) h5,
+h5:where(.root_reset_tags) {
+  color: var(--mixin-wJlqcNlII0ir_color);
+  font-size: var(--mixin-wJlqcNlII0ir_font-size);
+  font-weight: var(--mixin-wJlqcNlII0ir_font-weight);
+  line-height: var(--mixin-wJlqcNlII0ir_line-height);
+  font-family: var(--mixin-wJlqcNlII0ir_font-family);
+}
+
+:where(.root_reset) h6:where(.h6),
+h6:where(.root_reset.h6),
+:where(.root_reset .__wab_expr_html_text) h6,
+:where(.root_reset_tags) h6,
+h6:where(.root_reset_tags) {
+  color: var(--mixin-gfPHLvoJ_jzX_color);
+  font-size: var(--mixin-gfPHLvoJ_jzX_font-size);
+  font-weight: var(--mixin-gfPHLvoJ_jzX_font-weight);
+  line-height: var(--mixin-gfPHLvoJ_jzX_line-height);
+  font-family: var(--mixin-gfPHLvoJ_jzX_font-family);
+}
+
+:where(.root_reset) a:where(.a):hover,
+a:where(.root_reset.a):hover,
+:where(.root_reset .__wab_expr_html_text) a:hover,
+:where(.root_reset_tags) a:hover,
+a:where(.root_reset_tags):hover {
+  color: var(--mixin-gKXGeSBEWwzj_color);
+}
+
+:where(.root_reset) li:where(.li),
+li:where(.root_reset.li),
+:where(.root_reset .__wab_expr_html_text) li,
+:where(.root_reset_tags) li,
+li:where(.root_reset_tags) {
+}
+
+:where(.root_reset) p:where(.p),
+p:where(.root_reset.p),
+:where(.root_reset .__wab_expr_html_text) p,
+:where(.root_reset_tags) p,
+p:where(.root_reset_tags) {
+}
